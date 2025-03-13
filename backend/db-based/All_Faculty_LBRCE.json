@@ -1,0 +1,3159 @@
+{
+  "department": [
+    {
+      "name": "Computer Science and Engineering",
+      "department" :["CSE", "Computer Science", "Computer Science and Engineering", "CS"],
+      "hod": "Dr. D. Veeraiah",
+      "courses": [
+        "Artificial Intelligence and Machine Learning",
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Cloud Computing"
+      ],
+      "faculty": [
+        {
+          "name": "Dr. M. Srinivasa Rao",
+          "designation": "Professor and Dean of Academics at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering(CSE)",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/01_msr_new.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T206_MSR_PROFILE.pdf",
+          "research_areas": [
+            "DIP",
+            "Internet of Things",
+            "Data Science"
+          ],
+          "email": [
+            "smekala@Lbrce.ac.in",
+            "srinu.mekala@gmail.com"
+          ],
+          "phone": "+91 93900 13245",
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2018",
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2001",
+            "btech": "Computer Science and Information Technology in VR Siddhartha Engineering College, Acharya Nagarjuna University in 1998."
+          },
+          "teaching_subjects": [
+            "Cloud Computing",
+            "Software Engineering",
+            "Computer Architecture",
+            "Programming for Problem Solving using C",
+            "Python Programming",
+            "Data Communication and Computer Networks"
+          ],
+          "publications": {
+            "journals": 27,
+            "conferences": 10,
+            "patents": 4
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Best Researcher Award 2022” in the 'Global Eminence Awards 2022'",
+            "Distinguished Educator Award by IAECT in Oct 2020",
+            "Best Researcher Award by ELSEVIER SSRN in Mar 2020",
+            "Best Teacher Award by ITAAP, TITA in 2019."
+          ],
+          "roles": [
+            "Acting as Dean of Academics in LBRCE",
+            "Member in BoS, DAC, & PAC in LBRCE",
+            "Acted as BOS member in Department of Computer Science of Sri Durga Malleswara Siddhartha Mahila Kalasala, Vijayawada"
+          ]
+        },
+        {
+          "name": "Dr. D. Veeraiah",
+          "designation": "Professor and HOD at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering(CSE)",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/02_veer_logo.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T645_VEERAIAH_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Network Security",
+            "Internet of Things"
+          ],
+          "email": [
+            "hodcse@Lbrce.ac.in",
+            "veeraiahdvc@gmail.com"
+          ],
+          "phone": [
+            "+91 8919810599",
+            "+91 8333905834"
+          ],
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2017.",
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2009.",
+            "btech": "Computer Science and Information Technology in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2005."
+          },
+          "teaching_subjects": [
+            "Artificial Intelligence",
+            "Compiler Design",
+            "Automata Compiler Design",
+            "Theory of Computation",
+            "UML & Design Patterns",
+            "Constitution of India"
+          ],
+          "publications": {
+            "journals": 27,
+            "conferences": 15,
+            "patents": 5
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Research Excellence Award - 2023” in Global Eminence Awards 2023",
+            "Academic Titan Achievement Award” in Artificial Intelligence Medical & Engineering Researchers Society (AIMERS) Awards – 2023",
+            "Award of Excellence in Research” in Global Eminence Awards – 2022",
+            "Best Teacher Award by SOLETE Awards – 2021"
+          ],
+          "roles": [
+            "Acting as HOD, Department of CSE (Since November 2019)",
+            "Acting as Head, Systems & Maintenance Department (Since March 2018)",
+            "Acted as Head, Information Centre (from January 2014 to November 2019)",
+            "Test Centre Administrator, TCS iON Online Examinations (Since December 2016)",
+            "Member in BoS, DAC, & PAC (Since 2014)"
+          ]
+        },
+        {
+          "name": "Dr. Ch.Venkata Narayana",
+          "designation": "Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering(CSE)",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/03_ChVNR.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T404_CVNR_PROFILE.pdf",
+          "research_areas": [
+            "Image Processing",
+            "Machine Learning"
+          ],
+          "email": "cvnreddy.chejarla@gmail.com",
+          "phone": "+91 8985661847",
+          "experience": "26+ years",
+          "education": {
+            "phd": "Computer Science and Engineering in Acharya Nagarjuna University, AP, India.",
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Hyderabad, Hyderabad",
+            "btech": "Computer Science and Information Technology in Aeronautical Engineering from Aeronautical Society of India, New Delhi."
+          },
+          "teaching_subjects": [
+            "COMPUTER ORGANIZATION",
+            "UHV2",
+            "Software Engineering",
+            "Database Management systems",
+            "UML & Design Patterns"
+          ],
+          "publications": {
+            "journals": 20,
+            "conferences": 13,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Received “Best Teacher” award by Lions Club, Mylavaram for Academic Year 2018-19."
+          ],
+          "roles": [
+            "Acting as a PhD Supervisor at R&D center (LBRCE) recognized by JNTUK, Kakinada.",
+            "Worked as a HoD of CSE Dept. in LBRCE, during the period CSE Dept. got accredited by NBA with excellent score.",
+            "Acted as Chair of BOS for Department for both U. G. & P.G. of CSE.",
+            "Acted as Paper Setter for JNTUA",
+            "Acted as Special Observer for AP EAMCET 5 times",
+            "Founder & Chairman of ACG (a student association in CSE dept.).",
+            "Worked as M. Tech. Project coordinator and guided various projects.",
+            "Worked as B. Tech. Project coordinator and guided various projects.",
+            "Coordinator for WIPRO MISSION 10X High Impact Teaching Skills Team.",
+            "Successfully faced several National-level (NBA, NAAC) & State-level inspection teams."
+          ]
+        },
+        {
+          "name": "Dr. D. Venkata Subbaiah",
+          "designation": "Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/05_subbaiah.jpg",
+          "pdf_url": "http://lbrce.ac.in/faculty/profiles/cse/T856_SUBBAIAH_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Cyber Security",
+            "Deep Learning"
+          ],
+          "email": [
+            "subbaiah@Lbrce.ac.in",
+            "desanamukula@gmail.com"
+          ],
+          "phone": "+91 9440373828",
+          "experience": "14+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in Andhra University College of Engineering(A), Andhra University, Visakhapatnam in 2021.",
+            "mtech": "Computer Science and Engineering (Software Engineering)in Bharath Institute of Higher Education and Research(BIHER), Chennai in 2005",
+            "btech": "Computer Science and Engineering in V.R.Siddartha Engineering College Under Acharya Nagarjuna University, Guntur in 2001."
+          },
+          "teaching_subjects": [
+            "Software Testing Methodologies",
+            "Software Engineering",
+            "Pattern Recognition",
+            "Automata Theory and Compiler Design",
+            "Data warehousing and Data Mining",
+            "Universal Human Values-2"
+          ],
+          "publications": {
+            "journals": 14,
+            "conferences": 3,
+            "patents": 4
+          },
+          "professional_memberships": [
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Not Available"
+          ],
+          "roles": [
+            "Not Available"
+          ]
+        },
+        {
+          "name": "Dr. Y. Vijay Bhaskar Reddy",
+          "designation": "Professor and Technical Training at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/07_vijay.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T832_YVB_PROFILE1.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Network Security",
+            "Data Science"
+          ],
+          "email": "yvbreddy@lbrce.ac.in",
+          "phone": [
+            "+91 9848249504",
+            "+91 8688038369"
+          ],
+          "experience": "18+ Years",
+          "education": {
+            "phd": "Computer Science in Rayalaseema University, Kurnool in 2019.",
+            "mtech": "Computer Science and Engineering in Acharya Nagarjuna University(Campus), Guntur in 2011.",
+            "masters": "Master of Computer Applications Madras University 2002"
+          },
+          "teaching_subjects": [
+            "Data Structures using C",
+            "OOPs through Java",
+            "Artificial Intelligence",
+            "Introduction to programming",
+            "PHP Programming",
+            "Python Programming",
+            "Server-Side Scripting",
+            "Machine Learning",
+            "Full Stack-1",
+            "Big Data Analytics",
+            "R Programming",
+            "Computer Programming"
+          ],
+          "publications": {
+            "journals": 20,
+            "conferences": 4,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Java Full Stack Global Certification from Wipro",
+            "Best SPOC Award by APSSDC and ADC, ARC",
+            "Best Teacher Award at LBRCE in 2020",
+            "Best Teacher Award at Vardhaman in 2015",
+            "Best Teacher Award at LBRCE in 2012"
+          ],
+          "roles": [
+            "Acting as Technical Training Co-Ordinator (Since June 2022)",
+            "Acting as SPOC APSSDC (Since 2021)",
+            "Acted As (NBA)Criteria-6 Coordinator (Dec 2020 to May 2022)",
+            "Member in BoS, DAC, & PAC (Since 2020)",
+            "Acted as Microsoft Innovation Center Incharge (May 2012 to Sep 2014)"
+          ]
+        },
+        {
+          "name": "Dr. P. Bhagath",
+          "designation": "Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/09_bhagath.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T829_BHAGATH_PROFILE.pdf",
+          "research_areas": [
+            "Speech Processing"
+          ],
+          "email": "bhagath @lbrce.ac.in",
+          "phone": "+91 7576917879",
+          "experience": "13+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in IIT Guwahati in 2020",
+            "mtech": "Computer Science and Engineering in IIT Guwahati in 2010",
+            "amiete": "Computer Science and Engineering in IETE New Delhi in 2007"
+          },
+          "teaching_subjects": [
+            "Machine Learning",
+            "Pattern Recognition",
+            "Data Structures"
+          ],
+          "publications": {
+            "journals": 0,
+            "conferences": 19,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "ISTE",
+            "ACM",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "MHRD Scholarship for pursuing Ph. D (July 2014 to July 2019)",
+            "MHRD Scholarship for pursuing M. Tech (July 2008 to July 2010)"
+          ],
+          "roles": [
+            "Member in BoS, DAC, & PAC (Since 2020)",
+            "Central Research Co-ordinator from Aug 2021"
+          ]
+        },
+        {
+          "name": "Dr. P.ASHOK REDDY",
+          "designation": "Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/par.jpg",
+          "pdf_url": "http://lbrce.ac.in/faculty/profiles/cse/Dr.PAR-Profile.pdf",
+          "research_areas": [
+            "Software Engineering",
+            "Artificial Intelligence"
+          ],
+          "email": "pashokreddy29@gmail.com",
+          "phone": [
+            "+91 9948400430",
+            "+91 6301123660"
+          ],
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in Acharya Nagarjuna University, Guntur in 2018",
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada. Kakinada in 2009.",
+            "mca": "Acharya Nagarjuna University, Guntur in 2006"
+          },
+          "teaching_subjects": [
+            "Software Testing Methodologies",
+            "Operating Systems",
+            "Software Engineering",
+            "Artificial Intelligence",
+            "Python Programming",
+            "OOPS Through JAVA",
+            "C Programming",
+            "UML and Design Patterns",
+            "Design Analysis and Algorithms",
+            "OOAD Using UML"
+          ],
+          "publications": {
+            "journals": 26,
+            "conferences": 11,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "CSI"
+          ],
+          "achievements_and_awards": [
+            "President of India Awardee (National), NSS PO Category for the year 2019-20",
+            "President of India Awardee (National), NSS Unit Category for the year 2019-20",
+            "NSS State Awardee (NSS PO), NSS PO Category for the year 2019-20",
+            "Best Academician Award from IJIEMR-ELSEVIER on Dec 20, 2020",
+            "National Eminent Researcher Award 2020 from International Institute of Organized Research (I2OR) in Dec 2020",
+            "Best Researcher Award from IJIEMR-ELSEVIER on March 5, 2020",
+            "Best NSS Programme Officer from JNTU Kakinada on 07-11-2019 for the A.Y 2018-19",
+            "Certificate of Excellence and Best Teacher Award from Lions Club, Mylavaram for the A.Y 2018-19 on 05-09-2019",
+            "Best Teacher Award from Lakireddy BaliReddy College of Engineering for the A.Y 2019-20 and A.Y 2018-19",
+            "Flag Bearer Award from Indian Red Cross Society for outstanding NSS activities, Blood Donation Camps on 14-06-2016",
+            "Flag Bearer Award from Indian Red Cross Society for outstanding NSS activities, Blood Donation Camps on 02-10-2015",
+            "Best NSS Service Award from Andhra Pradesh Government on 26-01-2015",
+            "Gold Partner Award from Infosys, Campus Connect during Nov 2013",
+            "Best NSS Programme Officer from JNTU Kakinada on JNTUK Formation Day, 21-08-2012",
+            "Best Service Award from Andhra Pradesh Government for NSS activities on 26-01-2012",
+            "Best NSS Programme Officer for the year 2010 for NSS activities from Sub-collector Krishna District",
+            "Certificate of Appreciation from United Nations Information Center (UNIC) and Sri Ram Chandra Mission (SRCM), Oct 2013",
+            "Certificate of Recognition for outstanding contribution to Infosys Campus Connect Program during Jan – Dec 2011",
+            "Best Achievement Award from Infosys, Campus Connect for conduction of Foundation Programs during A.Y 2008-09"
+          ],
+          "roles": [
+            "Head of the Department, MCA (July 2018 to Jan 2022)",
+            "Member, College Advisory Board (CAB) (July 2018 to July 2021)",
+            "Chairman, Board of Studies, Dept of MCA (July 2018 to July 2021)",
+            "SPOC, AP State Skill Development Centre of Excellence (June 2019 to Jan 2022)",
+            "Member, Indian Red Cross Society, Krishna District Committee (Aug 2015 to Jan 2022)",
+            "Chairman, Indian Red Cross Society, Mylavaram Sub Branch (Aug 2018 to Jan 2022)",
+            "NSS Program Officer (July 2009 to Jan 2022)",
+            "District Programme Officer (DPO), NSS, Guntur District (June 2020 to Jan 2022)",
+            "Coordinator, IIRS College Nodal Center of ISRO (Dec 2020 to Jan 2022)",
+            "Member, DAC, PAC & MCC (2017 to 2021)",
+            "Member, Central Anti-Ragging Committee (June 2015 to April 2017)",
+            "Member, NBA (July 2015 to June 2018)",
+            "Event Coordinator, LAKSHYA (2007, 2010, 2012, 2013, 2014)",
+            "Coordinator, International Conference (APCET 2012)",
+            "Member, NAAC Committee (June 2016 to June 2020)",
+            "Coordinator, College Annual Day Celebrations (2009 to 2022)",
+            "Coordinator, LAKSHYA-2K11 (Institute level)",
+            "Member, Autonomous Committee (Dept level, June 2011 to April 2013)",
+            "Member, Information Cell (July 2009 - May 2017)",
+            "Member, ISO Representative Committee (June 2008 - June 2018)",
+            "Coordinator, Jawahar Knowledge Center (JKC) (Aug 2008 - June 2009)",
+            "In-charge Coordinator, Jawahar Knowledge Center (JKC) (Nov 2006 - July 2008, July 2009 - June 2012)",
+            "Event Manager, ASPIRATIONS 2020 by IEG-JKC-INFOSYS, 2007",
+            "Question Paper Setter for various Universities in AP and Telangana"
+          ]
+        },
+        {
+          "name": "Dr. K Devi Priya",
+          "designation": "Associate Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/13_devipriya.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T867_DEVIPRIYA_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Deep Learning",
+            "Big Data"
+          ],
+          "email": "k.devipriya20@gmail.com",
+          "phone": [
+            "+91 7730973355",
+            "+91 9381495528"
+          ],
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2021",
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2010.",
+            "btech": "Computer Science and Information Technology in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2006"
+          },
+          "teaching_subjects": [
+            "Operating Systems",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Web Application Development using Full Stack- Module-II(Backend Development)",
+            "Web Application Development using Full Stack - Module-I(Frontend Development)"
+          ],
+          "publications": {
+            "journals": 10,
+            "conferences": 10,
+            "patents": 2
+          },
+          "professional_memberships": [
+            "CSI",
+            "IAENG",
+            "CSI"
+          ],
+          "achievements_and_awards": [
+            "Runner up award in Infosys Inspire Campus Connect conducted by Infosys - Content guru event",
+            "Resource Person in CSI for Region-5 Vishakhapatnam Chapter in the area of Big Data and Hadoop, Cloud Computing",
+            "Completed Cloud Computing Security conducted by NPTEL and got top 2% position.",
+            "Completed InternetworkSecurity conducted by NPTEL and got top 5% position.",
+            "Completed Cloud Computing Security conducted by NPTEL and got top 2% position",
+            "Certificate of Excellence in Cloud Computing Technologies conducted at Adikavi Nannayya University, Rajahamundary."
+          ],
+          "roles": [
+            "Acting as NBA Central Coordinator",
+            "Acting as ML club coordinator",
+            "Member in BoS, DAC, & PAC"
+          ]
+        },
+        {
+          "name": "Dr. J.Nageswara Rao",
+          "designation": "Assoc. Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/22_jnageswararao.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T671_JNR_PROFILE.pdf",
+          "research_areas": [
+            "Data Mining",
+            "Machine Learning"
+          ],
+          "email": "nagsmit@gmail.com",
+          "phone": ":+91 9866640155",
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Acharya Nagarjuna University,2022",
+            "mtech": " Computer Science and Engineering from Acharya Nagarjuna University,2011",
+            "btech": "n Information Technology From KLCE, Under Acharya Nagarjuna University 2008"
+          },
+          "teaching_subjects": [
+            "Software Engineering",
+            "Digital logic design ,Computer architecture",
+            "Digital logic design Human Computer Interaction",
+            "Programming for Problem Solving using C",
+            "Constitution of India",
+            "Human Computer Interaction "
+          ],
+          "publications": {
+            "journals": 28,
+            "conferences": 6,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "CSI",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": [
+            "Acting as NSS co-ordinator, Department of CSE (Since November 2014)",
+            "Member in BoS (Since 2022)"
+          ]
+        },
+        {
+          "name": "Dr. S.Nagarjuna Reddy",
+          "designation": "Associate Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/24_nag.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T831_SNR_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning"
+          ],
+          "email": [
+            "nagvik@gmail.com",
+            "snreddy@lbrce.ac.in"
+          ],
+          "phone": [
+            "+91 9392965208",
+            "+91 9505186576"
+          ],
+          "experience": "16+ Years",
+          "education": {
+            "phd": "n Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2022",
+            "mtech": "n Computer Science and Engineering from Acharya Nagarjuna University, Guntur in 2009.",
+            "btech": "Computer Science and Information Technology from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2005."
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "Theory of Computation",
+            "Programming for Problem Solving Using C",
+            "Mean Stack Technologies",
+            "Object Oriented Programming",
+            "Web development using Full Stack Module-II",
+            "Design and Analysis of Algorithms"
+          ],
+          "publications": {
+            "journals": 10,
+            "conferences": 6,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Best Teacher Award at LBRCE in 2021 & 2022.",
+          "roles": [
+            "Acted as Asst. Controller of Examinations in SSIT( from June 2009 to June 2011)",
+            "Member in BoS, DAC, & PAC (Since 2022)"
+          ]
+        },
+        {
+          "name": "Dr. B. Sivarama krishna",
+          "designation": "Associate Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/18_sivaramakrishna.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T475_SRK_PROFILE.pdf",
+          "research_areas": "Cloud computing, computer networks, andInternet of Things",
+          "email": "sivaram6115@gmail.com",
+          "phone": "+91 9490835580",
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Acharya Nagarjuna University, Guntur district, Andhra Pradesh.",
+            "mtech": "n Computer Science and Engineering from Andhra university, Visakhapatnam in 2008.",
+            "btech": "n Computer Science and Information Technology from Andhra university, Visakhapatnam in 2003."
+          },
+          "teaching_subjects": [
+            " Computer Networks",
+            "Opertating Systems",
+            "Shell ScriptLab",
+            "Android technology",
+            "IT Workshop Lab",
+            "Internet Of things"
+          ],
+          "publications": {
+            "journals": 14,
+            "conferences": 5,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": [
+            "Acting as IEEE Student coordinator , Department of CSE (Since November 2022)",
+            "Acted as CIIE coordinator, Department of CSE(Since March 2018)",
+            "Acted as Exam cell Coordinator (from January 2014 to November 2018)"
+          ]
+        },
+        {
+          "name": "G V Suresh",
+          "designation": "Associate Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/14_gvsuresh.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T568_SURESH_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning and Big Data"
+          ],
+          "email": "vijaysuresh.g@gmail.com",
+          "phone": "+91 9912306009",
+          "experience": "16+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Jawaharlal Nehru Technological University Hyderabad, Kakinada .",
+            "mtech": "Software Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2008.",
+            "btech": "Information Technology from Acharya Nagarjuna University, Guntur in 2004."
+          },
+          "teaching_subjects": [
+            "Software Engineering",
+            "Big Data",
+            "Data Mining",
+            "Design and Analysis of Algorithms",
+            "Computer Networks"
+          ],
+          "publications": {
+            "journals": 14,
+            "conferences": 3,
+            "patents": 2
+          },
+          "professional_memberships": [
+            "CSI",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": [
+            "Member in BoS, DAC, & PAC (Since 2012)"
+          ]
+        },
+        {
+          "name": "Mr. Kommuri Venkatrao",
+          "designation": "Sr. Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/T962_K%20Venkatrao.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T962_K%20Venkatrao_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Internet of Things",
+            "Computer Networks"
+          ],
+          "email": "venkatkvr789@gmail.com",
+          "phone": [
+            "+91 9666708044",
+            "9346699588"
+          ],
+          "experience": "07 Years",
+          "education": {
+            "phd": "School of Computer Science and Engineering (scope) from  VIT AP University, Amaravati Andhra Pradesh",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014",
+            "MCA": "Acharya Nagarjuna University- Nambur, Guntur in 2011."
+          },
+          "teaching_subjects": [
+            "Fundamental of Data Structures",
+            "Computer Networks",
+            "Computer Organization",
+            "Object Oriented Programming through JAVA",
+            "IT Workshop",
+            "Operating System"
+          ],
+          "publications": {
+            "journals": 4,
+            "conferences": 0,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "ACM"
+          ],
+          "roles": [
+            "Worked as IQAC member at Vikas college of Engineering (From November 2019 to April 2020)",
+            "Acted as member in department examination section at Nova college of Engineering (Jun 2015 to April 2017)",
+            "Acted as member of Anti Ragging committee at Nova college of Engineering (July 2016 to April 2017)"
+          ]
+        },
+        {
+          "name": "A. Sree Rama Chandra Murthy",
+          "designation": "Sr. Asst. Prof.",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/17_sreeramachandramurthy.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T521_MURTHY_PROFILE.pdf",
+          "research_areas": [
+            "Data Mining",
+            "Machine Learning"
+          ],
+          "email": "sreeram.ramu2k3@gmail.com",
+          "phone": "+91 9885437665",
+          "experience": "14+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada ",
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008.",
+            "btech": "Computer Science and Information Technology in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2004."
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "PPSC",
+            "Data Mining and Data Warehousing"
+          ],
+          "publications": {
+            "journals": 7,
+            "conferences": 3,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Best Teacher Award at LBRCE in 2014, 2015",
+          "roles": [
+            "Acted as Technical Trainer. (from 2017-2022)",
+            "Acting as Lab In charge",
+            "Acted as Central Discipline Committee Member, Anti Ragging Committee, Bus In charge",
+            "Acting as Class Teacher, Mentor"
+          ]
+        },
+        {
+          "name": "Mr. A. Sudhakar",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/26_sudhakar.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T597_SUDHAKAR_PROFILE.pdf",
+          "research_areas": [
+            "Computer Networks",
+            "Network Security"
+          ],
+          "email": [
+            "asudhakar@Lbrce.ac.in",
+            "sudhakar.atchala@gmail.com"
+          ],
+          "phone": "+91 8801320910",
+          "experience": "14+ Years",
+          "education": {
+            "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+            "btech": "Information Technology in Andhra University Visakhapatnam, Visakhapatnam in 2005"
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "Programming for Problem Solving using C",
+            "OOP through Java",
+            "Discrete Mathematical Structures"
+          ],
+          "publications": {
+            "journals": 7,
+            "conferences": 1,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Question Paper Setter to various Autonomous Colleges and Deemed Universities",
+          "roles": [
+            "Discipline committee member in CSE Dept., LBRCE Mylavaram",
+            "Counselor for 20 students to monitor their performance"
+          ]
+        },
+        {
+          "name": "Mr. N V NAIK",
+          "designation": "Senior Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/28_naik1.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T679_NAIK_PROFILE.pdf",
+          "research_areas": [
+            "Data Science",
+            "Machine Learning"
+          ],
+          "email": "nvnaikit@gmail.com",
+          "phone": "+91 7893644427",
+          "experience": "11+ Years",
+          "education": {
+            "phd": "Computer Science and System Engineering from Andhra university on 04/05/2024.",
+            "mtech": "Computer Science and Engineering from NIT Rourkela, Odisha in 2012.",
+            "btech": "Information Technology from Bapatla Engineering college, Bapatla in 2010."
+          },
+          "teaching_subjects": [
+            "Theory of Computation ",
+            "Design and Analysis of Algorithms",
+            "Principals of Artificial intelligence",
+            "R programming",
+            "Operating system"
+          ],
+          "publications": {
+            "journals": 9,
+            "conferences": 6,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "NTA UGC NET QUALIFIED IN JUNE 2019",
+            "QAULAIFIED GATE"
+          ],
+          "roles": [
+            "Acting as Admission in charge, Department of CSE (Since June 2021)",
+            "Acting as ABC(Coordinator). Dept. of CSE (since June 2023)",
+            "Member of the internal exam cell",
+            "Acted as placement in charge, Department of CSE (from June 2015 to May 2021)"
+          ]
+        },
+        {
+          "name": "Mr. Narisetty SrinivasaRao",
+          "designation": "Senior Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/29_nsr.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T713_NSR_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Image Processing"
+          ],
+          "email": [
+            "nsr543@Lbrce.ac.in",
+            "nsr543@gmail.com"
+          ],
+          "phone": [
+            "+91 9553386541",
+            "+91 8639227127"
+          ],
+          "experience": "8+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada from 2021.",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014",
+            "btech": " Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012."
+          },
+          "teaching_subjects": [
+            "Data Structures & Lab",
+            "Object Oriented Programming & Lab",
+            "Web Technologies & Lab",
+            "Full Stack Web Application Development(Module-1)",
+            "Full Stack Web Application Development(Module-II)",
+            "Web Technologies & Lab",
+            "PHP Programming"
+          ],
+          "publications": {
+            "journals": 5,
+            "conferences": 5,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Best Teacher Award at LBRCE in 2017, 2019 & 2021",
+            "Awarded as Wipro Certified Faculty (WCF) from Wipro Company, Bangalore",
+            "Elite+Gold & Top 1% from online NPTEL certification course on “Programming in Java"
+          ],
+          "roles": [
+            "Acting as Technical Training Team Member to train students for placements since 2016",
+            "Acting as SPOC & Wipro Certified Faculty (WCF) in the Training & Placements since 2019",
+            "Acted as Placement Coordinator in CSE Dept., (During A.Y: 2020-21 & 2022-23)",
+            ",Acting as Bus incharge for the Bus J19 (from Nuzvid to LBRCE) since 2019",
+            "Acting as Discipline committee member in CSE Dept., LBRCE Mylavaram",
+            "Acting as Student Counselor for 20 students to monitor their performance"
+          ]
+        },
+        {
+          "name": "Mr. S. Govindu",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/32_govindu.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T738_GOVINDU_PROFILE.pdf",
+          "research_areas": [
+            "Quantum Computing",
+            "Machine Learning",
+            "Network Security"
+          ],
+          "email": [
+            "govindcse@Lbrce.ac.in",
+            "govindu561@gmail.com"
+          ],
+          "phone": "+91 9948482327",
+          "experience": "10+ Years",
+          "education": {
+            "phd": "PONDICHERRY UNIVERSITY, Pondicherry",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012",
+            "btech": " Computer Science and Information Technology from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2009."
+          },
+          "teaching_subjects": [
+            "Database Management Systems",
+            "Python Programming",
+            "Programming for Problem Solving using C"
+          ],
+          "publications": {
+            "journals": 7,
+            "conferences": 2,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "ISTE",
+            "IAENG",
+            "UACEE"
+          ],
+          "achievements_and_awards": [
+            "Best Teacher Award at LBRCE in 2018"
+          ],
+          "roles": [
+            "Member in E-Box Training (Since 2018)",
+            "Acting as a Department ISTE Coordinator (Since 2018)",
+            "Acting as a Department Exam-Section In-Charge (Since 2018)",
+            "Acting as a Department Jnanabhoomi Coordinator (Since 2017)"
+          ]
+        },
+        {
+          "name": "T.N.V.S Praveen",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/33_praveen_new1.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T702_PRAVEEN_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Network Security",
+            "Internet of Things"
+          ],
+          "email": "urspraveen3@gmail.com",
+          "phone": "+91 9160166361",
+          "experience": "11+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada from A.Y 2021-22",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+            "btech": "Computer Science and Information Technology from Acharya nagarjuna University, Guntur in 2007"
+          },
+          "teaching_subjects": [
+            "DMS",
+            "CD",
+            "Automata Theory and Compiler Design",
+            "Theory of Computation",
+            "Python Programming",
+            "ACD"
+          ],
+          "publications": {
+            "journals": 5,
+            "conferences": 0,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Best Teacher Award at LBRCE in 2020"
+          ],
+          "roles": [
+            "Acting as Placement coordinator (from June 2022 to till date)",
+            "Acted as Examcell coordinator (from Aug 2021 to may 2022)",
+            "Acted as Feedback coordinator (from Aug 2015 to Aug 2016)",
+            "Acted as NPTEL coordinator (from June 2016 to June 2017)",
+            "Acted as Central Discipline Comittee (from June 2018 to June 2020)"
+          ]
+        },
+        {
+          "name": "Mr. S. Srinivasa Reddy",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/36_ssreddy1.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T562_SSR_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning"
+          ],
+          "email": [
+            "seelamsrinivasareddy@lbrce.ac.in",
+            "seelamsrinivasareddy@gmail.com"
+          ],
+          "phone": "+91 9985617428",
+          "experience": "11+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada.",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+            "MCA": "Master of Computer Application from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2010"
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "Introduction to Programming",
+            "Big Data Analytics",
+            "Data Base Management System"
+          ],
+          "publications": {
+            "journals": 5,
+            "conferences": 7,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "UGC NET QUALIFIED IN 2021",
+            "AP SET QUALIFIED IN 2020",
+            "Recognized as Wipro TalentNext Certified Faculty",
+            "Received Certification of appreciation from NPTEL, IIT Madras as NPTEL DISCIPLINE STAR",
+            "Received Top Performing Mentor award from NPTEL, IIT Madras for the PROGRAMMING IN JAVA course in 2019",
+            "Received certificate of appreciation from NPTEL, IIT Madras for the JOY OF COMPUTING USING PYTHON course mentor in 2019",
+            "Received Top Performing Mentor award from NPTEL, IIT Madras for the course PROBLEM SOLVING THROUGH PROGRAMMING IN C in 2018",
+            "Best Teacher Award at LBRCE in 2017, 2020,2023"
+          ],
+          "roles": [
+            "Department Information Cell In-charge (Since 2023)",
+            "Department Library In-charge (Since November 2020)",
+            "Wipro TalentNext trainer (Since March 2021)",
+            "Neopat trainer (Since 2022)",
+            "E-box trainer (from 2019 to 2021)",
+            "Department Placement In-charge (A.Y 2021-22)",
+            "Member in the Technical Training Team (Since 2019)"
+          ]
+        },
+        {
+          "name": "Mrs SWATHI BURAGADDA",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/38_swathi.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T848_BSWATHI_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Network Security"
+          ],
+          "email": "buragaddaswathi@gmail.com",
+          "phone": [
+            "+91 7013701433",
+            "+91 9703003796"
+          ],
+          "experience": ":16+ Years",
+          "education": {
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2011",
+            "btech": "Computer Science and Information Technology from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008."
+          },
+          "teaching_subjects": [
+            "Data Warehousing and Data mining",
+            "Machine learning",
+            "DAA",
+            "UML& Design Patterns",
+            "Discrete Mathematics Structures"
+          ],
+          "publications": {
+            "journals": 10,
+            "conferences": 3,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": [
+            "Department Minors/Honors Course Coordinator(From Feb 2022)",
+            "Department Examcell Coordinator(From Oct 2021)",
+            "Department Audit Incharge(From Oct 2021)"
+          ]
+        },
+        {
+          "name": "Ms. P. Sarala",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T869_SARALA_PROFILE.pdf",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T671_JNR_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Network Security",
+            "Deep Learning"
+          ],
+          "email": [
+            "sarala@lbrce.ac.in",
+            "pappulasarala@gmail.com"
+          ],
+          "phone": [
+            "+91 8142006797",
+            "+91 7989261108"
+          ],
+          "experience": "10+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada from 2022",
+            "mtech": "Computer Science and Engineering from Velagapudi Ramakrishna Siddhartha Engineering College, JNTUK in 2012.",
+            "btech": "Computer Science and Information Technology from DVR & DR. HimaSekhar Mic College of Technology, JNTUK in 2010"
+          },
+          "teaching_subjects": [
+            "Operating Systems",
+            "Data Structures",
+            "Principles of Object Oriented Programming",
+            "Shell Scripting Lab",
+            "Python Programming",
+            "Distributed Systems",
+            "Software Architecture and Design Patterns"
+          ],
+          "publications": {
+            "journals": 6,
+            "conferences": 3,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "I was Ratified by JNTU Kakinada in 2022 as an Assistant Professor from Lakireddy Bali Reddy College of Engineering",
+            "Got Topper 2% in NPTEL Online Certification on Cloud Computing",
+            "I was Ratified by JNTU Kakinada in 2014 as an Assistant Professor from Vijaya Institute of Technology for Women",
+            "Certified by Microsoft in HTML5 with JavaScript and CSS3",
+            "I was recognized by Microsoft as Microsoft Technology Associate in the domain of Networking Fundamentals"
+          ],
+          "roles": [
+            "Acting as Class Teacher for 2nd Year students",
+            "Acting as ACG - Association of Computer Geeks Coordinator in CSE Department",
+            "Acting as Coordinator for Internal Academic Audit",
+            "Acted as Dept. NPTEL Coordinator"
+          ]
+        },
+        {
+          "name": "Mr. Ashok Reddyboina",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/46_ashok_new.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T890_ASHOK_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Computer Vision",
+            "Internet of Things (IoT)"
+          ],
+          "email": [
+            "anshok04@gmail.com",
+            "anshok0@gmail.com"
+          ],
+          "phone": "+91 9573590067",
+          "experience": "11+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Pondicherry University, Puducherry",
+            "mtech": "Computer Science and Engineering from Pondicherry University, Puducherry in 2011",
+            "btech": "Information Technology from Andhra University, Visakhapatnam in 2008"
+          },
+          "teaching_subjects": [
+            "Full Stack Development-I",
+            "Internet of Things (IoT)",
+            "Data Warehousing & Data Mining",
+            "Android Technologies"
+          ],
+          "publications": {
+            "journals": 5,
+            "conferences": 3,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Qualified NTA-NET for Assistant professor in Computer Science and Application Subject held in June 2019.",
+            "Qualified GATE-2020 in the stream of Computer Science and Information Technology held in February 2020.",
+            "Secured AIR 52th RANK in Pondicherry Central University Ph.D. Entrance Examination",
+            "Secured AIR 36th RANK in Pondicherry Central University Post Graduate Entrance Examination",
+            "Qualified as Doubt Clearing Educator on Unacademy platform in the stream of Computer Science"
+          ],
+          "roles": [
+            "Acting as Time Table In charge (Since May 2022)",
+            "Acted as Head, Final Year Project Co-Ordinator (for 19 Admitted Batch)",
+            "Acted as Class Teacher (from December 2021 to April 2023)"
+          ]
+        },
+        {
+          "name": "G.V.RAJYA LAKSHMI",
+          "designation": "Sr.Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/47_GVRL.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T927_GVRL_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Data Science"
+          ],
+          "email": "gvrlakshmi.2011@gmail.com",
+          "phone": "+91 9393009616",
+          "experience": "15+ Years",
+          "education": {
+            "phd": "Computer Science and Systems Engineering from Andhra University, Visakhapatnam.",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada in 2012.",
+            "btech": "Computer Engineering from AMIE (IEI) Kolkata in 2007."
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "Database Management Systems",
+            "Computer Programming",
+            "Computer Organisation",
+            "Data Mining",
+            "Python Programming"
+          ],
+          "publications": {
+            "journals": 10,
+            "conferences": 5,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "ACM",
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEI"
+          ],
+          "achievements_and_awards": "UGE-NET Qualified in Dec- 2019",
+          "roles": "Not Available"
+        },
+        {
+          "name": "Bajjuri Usha Rani",
+          "designation": "Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/37_usha1.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T841_USHA_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Image Processing"
+          ],
+          "email": "bajjuri.usharani2022@gmail.com",
+          "phone": ":+91 9492270654",
+          "experience": "06+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Pursuing Ph.D from JNTUGV, Vizianagaram from the A.Y. 2022-23.",
+            "mtech": "Computer Science and Engineering from P.V.P Siddhartha Institute of Technology(Autonomous) in 2015",
+            "btech": "Computer Science and Engineering from DMS SVH College of Engineering in 2012."
+          },
+          "teaching_subjects": [
+            "Software Engineering",
+            "Oops through Java",
+            "Technical Training",
+            "Universal Human Values",
+            "Server Side Scripting",
+            "Python Programming",
+            "Information Retrieval System",
+            "ITWS"
+          ],
+          "publications": {
+            "journals": 2,
+            "conferences": 5,
+            "patents": 2
+          },
+          "professional_memberships": [
+            "ACM",
+            "IRED",
+            "IAENG"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": [
+            "Acting as Mentor for ICT DXC HONEYWELL, Department of CSE(Since 2022)",
+            "Central and Department Faculty Co-ordinator, Lakshya-2K21: National Level Technical Symposium (December,2021)",
+            "Acting as Mentor for ICT DXC WOMEN ,Department of CSE (Since 2020)",
+            "Acting as Bus Incharge , LBRCE Transport(Since December, 2020)"
+          ]
+        },
+        {
+          "name": "N.Srikanth",
+          "designation": "Sr.Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/48_srikanth.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T892_SRIKANTH_PROFILE.pdf",
+          "research_areas": [
+            "Cloud Computing"
+          ],
+          "email": "srinekkalapu51@gmail.com",
+          "phone": "+91 9490752169",
+          "experience": "10+ Years",
+          "education": {
+            "phd": "Computer Science & Engineering with specialization of Cloud Security from Sathyabama university Chennai.",
+            "mtech": "Computer Science & Engineering from Jawaharlal Nehru Technological University Hyderabad, in 2013",
+            "btech": "Information Technology from Jawaharlal Nehru Technological University Hyderabad, in 2011."
+          },
+          "teaching_subjects": [
+            "Software Engineering",
+            "Data Base Management Systems",
+            "Software Testing Methodologies"
+          ],
+          "publications": {
+            "journals": 6,
+            "conferences": 5,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "ACM"
+          ],
+          "achievements_and_awards": [
+            "Expert level Instructor Excellence Award From CISCO Networking Academy2019",
+            "Rising Star Instructor Excellence Award From CISCO Networking Academy2019",
+            "5 years of service active and dedicated service in CISCO Network Academy 2023"
+          ],
+          "roles": [
+            "CISCO Lab Incharge",
+            ". Department Budget Co-ordinator",
+            "Department Placement Co-ordinator",
+            "Department Admission Committee Co-ordinator"
+          ]
+        },
+        {
+          "name": "D. Anil kumar",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/50_anil.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T895_ANIL_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Recommender systems."
+          ],
+          "email": [
+            "anil.dudla@Lbrce.ac.in",
+            "anil.dudla@gmail.com"
+          ],
+          "phone": "+91 9966213323",
+          "experience": "12+ Years",
+          "education": {
+            "phd": "Computer Science & Engineering with specialization of Machine Learning from Puducherry Technological University, Pondicherry",
+            "mtech": "Software Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2011.",
+            "btech": "Computer Science& Engineering from Acharya Nagarjuna University, Guntur in 2007"
+          },
+          "teaching_subjects": [
+            "Software Engineering",
+            "Big Data Analytics",
+            "R-Programming",
+            "Data Structures"
+          ],
+          "publications": {
+            "journals": 3,
+            "conferences": 2,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": "Not Available"
+        },
+        {
+          "name": "Mr. CH. SRINIVASA RAO",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/34_chsrinivas.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T755_CHSR_PROFILE.pdf",
+          "research_areas": [
+            "Cyber Security & Artificial Intelligence"
+          ],
+          "email": [
+            "chsrao@lbrce.ac.in",
+            "srinivas.lovely10@gmail.com"
+          ],
+          "phone": [
+            "+91 7981461655",
+            "+91 9985665759"
+          ],
+          "experience": "11+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada. Kakinada",
+            "mtech": "Computer Science and Engineering from Acharya Nagarjuna University, Guntur in 2009.",
+            "btech": " Computer Science and Information Technology from Jawaharlal Nehru Technological University Hyderabad in 2007"
+          },
+          "teaching_subjects": [
+            "Artificial Intelligence",
+            "Introduction to Software Engineering",
+            "Software Engineering",
+            "Information Security",
+            "E-Commerce",
+            "Ad Hoc Networks Cryptography & Network Security"
+          ],
+          "publications": {
+            "journals": 8,
+            "conferences": 0,
+            "patents": 1
+          },
+          "professional_memberships": [
+            "ISTE",
+            "IAENG",
+            "ACM"
+          ],
+          "achievements_and_awards": [
+            "Ratified by JNTU Kakinada in 2022 as an Assistant Professor from Lakireddy Bali Reddy College of Engineering",
+            "Got Elite+Siver in NPTEL online Certification on Introduction to Industry 4.0 and IoT"
+          ],
+          "roles": [
+            "Acting as Cultural Coordinator, Department of CSE (Since November 2017)",
+            "Acted as Class Teacher for 3rd Year students",
+            "Acting as NSS Incharge, Department of CSE"
+          ]
+        },
+        {
+          "name": "Mr. Amanatulla Mohammad",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/44_amanatulla.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T886_AMAN_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Information Security",
+            "Data Science"
+          ],
+          "email": [
+            "amanatulla@Lbrce.ac.in",
+            "amanatulla@gmail.com"
+          ],
+          "phone": [
+            "+91 9885990188",
+            "+91 8341115974"
+          ],
+          "experience": ":10+ Years",
+          "education": {
+            "phd": "Computer Science and Systems Engineering from Andhra University (AUTDRH), Visakhapatnam, Andhra Pradesh – Joined in the Academic Year: 2022-23.",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014.",
+            "MCA": "Master of Computer Applications from Acharya Nagarjuna University- Nambur, Guntur in 2009."
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "MEAN Stack Technology",
+            "Server Side Scripting",
+            "Full Stack Development-II",
+            "Object Oriented Programming through JAVA",
+            "IT Workshop",
+            "PHP Programming",
+            "Shell Scripting"
+          ],
+          "publications": {
+            "journals": 8,
+            "conferences": 3,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "ACM"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": [
+            "Acting as Deputy Controller of Examination (From April-2024)",
+            "Acted as member in department examination section (From November 2022 to April 2024)",
+            "Acting as member in College Web Site Development & Maintenance (From June 2022)",
+            "Acted as member in Establishment Section (From August 2021 to June 2022)"
+          ]
+        },
+        {
+          "name": "Veera Swamy Pittala",
+          "designation": "Sr. Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/51_swamy.png",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T897_VEERASWAMY_PROFILE.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Deep Learning"
+          ],
+          "email": [
+            "veeraswamyp@lbrce.ac.in",
+            "veeraswamypittala@gmail.com"
+          ],
+          "phone": [
+            "+91 9493843237",
+            "9290566429"
+          ],
+          "experience": "10+ Years",
+          "education": {
+            "phd": "Information Technology from Andhra University, Visakhapatnam in 2023.",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2015.",
+            "btech": "Information Technology from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2009."
+          },
+          "teaching_subjects": [
+            "SPM",
+            "IT Workshop",
+            "IRS",
+            "SADP",
+            "DS",
+            "DAA"
+          ],
+          "publications": {
+            "journals": 5,
+            "conferences": 3,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE",
+            "ACM"
+          ],
+          "achievements_and_awards": "Not Available",
+          "roles": "Acting as Sports incharge Department of CSE (Since June 2022)"
+        },
+        {
+          "name": "Mr.M.Kiran Kumar",
+          "designation": "Sr.Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/52_kiran.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T900_KIRAN_PROFILE_NEW.pdf",
+          "research_areas": [
+            "Machine Learning",
+            "Network Security"
+          ],
+          "email": [
+            "kiran@Lbrce.ac.in",
+            "skiran510@gmail.com"
+          ],
+          "phone": "+91 7893710792",
+          "experience": "12+ Years",
+          "education": {
+            "phd": "Ph.D Degree From Puducherry Technological University, Puducherry from 2022.",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014.",
+            "btech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2011"
+          },
+          "teaching_subjects": [
+            "Data Structures",
+            "Full Stack Development-I",
+            "Compiler Design",
+            "Full Stack Development-II",
+            "Discrete Mathematics"
+          ],
+          "publications": {
+            "journals": 7,
+            "conferences": 2,
+            "patents": 2
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "ACM",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Best Teacher Award at LBRCE in 2024",
+            "Ratified as an Assistant Professor By JNTUK for Aditya College of Engineering and Technology",
+            "Ratified as an Assistant Professor By JNTUK for VSM College of Engineering",
+            "Ratified as an Assistant Professor By JNTUK for Srinivasa Institute of Engineering &Technology. "
+          ],
+          "roles": [
+            "Technical Training(C,C++,PYTHON,JAVA) Using NEO-PAT Tool",
+            "Acting as member in department examination section",
+            "Acting as Grievance Redressal committee member in CSE Dept., LBRCE Mylavaram",
+            "Acting as Student Counselor for 20 students to monitor their performance",
+            "Acting as Class Teacher for 2nd Year students"
+          ]
+        },
+        {
+          "name": "Mr. Anand Thota",
+          "designation": "Sr. Assistant Professor",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/T974_ANAND%20THOTA_PROFILE.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T974_ANAND%20THOTA_PROFILE.pdf",
+          "research_areas": [
+            "Artificial Intelligence"
+          ],
+          "email": "anand4uammu@gmail.com",
+          "phone": "+91 9885523003",
+          "experience": "13+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Andhra University, Vishakhapatnam",
+            "mtech": "Information Technology from GITAM University, Vishakhapatnam, 2010.",
+            "btech": "Computer Science and Engineering from Jawaharlal Nehru Technological University, Hyderabad, 2007."
+          },
+          "teaching_subjects": [
+            "Introduction Programming (C)",
+            " CPP (C++)",
+            "Java"
+          ],
+          "publications": {
+            "journals": 7,
+            "conferences": 2,
+            "patents": 2
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "achievements_and_awards": [
+            "AP SET -2019 Qualified",
+            "APRCET-2021 State 4th Rank."
+          ],
+          "roles": [
+            "APSCHE Coordinator for Apprenticeship Embedded Degree Program (AEDP) -2024, Govt. of Andhra Pradesh.",
+            "APSCHE Coordinator for State Teachers Awards-2024 conducted by Govt. of Andhra Pradesh.",
+            "Technical Coordinator for Andhra Pradesh State Council of Higher Education (APSCHE) -Messenger.",
+            "Technical Coordinator for Andhra Pradesh State Council of Higher Education (APSCHE) -Internships.",
+            "Scrutinizing new degree college applications, UG Applications and Extension of period (EoPs)Applications, Andhra Pradesh State Council of Higher Education (APSCHE), Mangalagiri.",
+            "Technical Coordinator for OAMDC - Andhra Pradesh State Council of Higher Education (APSCHE),Mangalagiri.",
+            "College Internal auditor for NAAC, NBA in Sri Potti Sriramulu Chaluvadhi Mallikarjunarao College of Engineering and Technology, Vijayawada",
+            "Institutional MHRD IIC Cell Secretary in Sri Potti Sriramulu Chaluvadhi Mallikarjunarao College of Engineering and Technology, Vijayawada."
+          ]
+        },
+        {
+          "name": "Mr.P.Nagababu",
+          "designation": "Sr . Assistant Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/53_nagababu_new.JPG",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T902_NAGABABU_PROFILE_New.pdf",
+          "research_areas": [
+            "Data Science",
+            "AI and Machine Learning."
+          ],
+          "email": [
+            "nagababu1243@Lbrce.ac.in",
+            "nagababu1243@gmail.com"
+          ],
+          "phone": [
+            "+91 9032055819",
+            "+91 8688787774"
+          ],
+          "experience": ":10+ Years",
+          "education": {
+            "phd": "Computer Science and Engineering from Puducherry Technological University, Puducherry from 2023",
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2016.",
+            "btech": "Information Technology from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012."
+          },
+          "teaching_subjects": [
+            "Oops through Java",
+            "Big Data Analytics",
+            "SERVER SIDE SCRIPTING lab",
+            "SOFTWARE PROJECT MANAGEMENT",
+            "DEVOPS –CICD lab",
+            "Data Analytics & Visualization Lab"
+          ],
+          "publications": {
+            "journals": 2,
+            "conferences": 5,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "ACM",
+            "IEEE"
+          ],
+          "achievements_and_awards": "Best Teacher Award– 2020",
+          "roles": [
+            "Technical Training(C,C++,PYTHON,JAVA)Using NEO-PAT Tool",
+            "CENTRAL DICIPLINE COMMETEE MEMBER",
+            "DATA ANALYTICS LAB INCHARGE",
+            "DEPARTMENT PLACEMENT INCHARGE",
+            "CLASS TEACHER",
+            "BUS INCHARGE"
+          ]
+        },
+        {
+          "name": "O.Venkata siva",
+          "designation": "Asst.Professor",
+          "department": "CSE",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/41_osiva.jpeg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T855_OVS_PROFILE.pdf",
+          "research_areas": [
+            "cloud computing",
+            "Machine Learning."
+          ],
+          "email": "orsuvenkatasiva@gmail.com",
+          "phone": "+91 9492057199",
+          "experience": "3+ Years",
+          "education": {
+            "mtech": "Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada, in 2018.",
+            "btech": "Computer Science and Information Technology from Jawaharlal Nehru Technological University Kakinada, in 2016."
+          },
+          "teaching_subjects": [
+            "DBMS",
+            "SS LAB",
+            "DLD",
+            "Data structures",
+            "PPSC"
+          ],
+          "publications": {
+            "journals": 0,
+            "conferences": 1,
+            "patents": 0
+          },
+          "professional_memberships": [
+            "CSI",
+            "ISTE",
+            "IAENG",
+            "IEEE"
+          ],
+          "roles": "Acting as a Department ALUMINI CO-ORDINATOR"
+        },
+        {
+          "name": "MATTA.SWATHI",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/42_swathim.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T854_MSWATHI_PROFILE.pdf",
+          "research_areas": [
+              "Edge computing",
+              "Cloud Computing"
+          ],
+          "email": "lbrceswathi05@gmail.com",
+          "phone": "+91 9502810966",
+          "experience": "8+ Years",
+          "education": {
+              "phd": "CSE from Puducherry Technological University, from the A.Y 2024-25",
+              "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2017.",
+              "btech": "Information Technology in Acharya Nagarjuna University Guntur in 2012"
+          },
+          "teaching_subjects": [
+              "Data Structures",
+              "Cloud Computing",
+              "Software Engineering",
+              "IT Workshop",
+              "Information Security",
+              "Principles of Object Oriented Programming",
+              "Information Retrieval Systems"
+          ],
+          "publications": {
+              "journals": 0,
+              "conferences": 1,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "ACM"
+          ],
+          "achievements_and_awards": [
+             "Got Elite in NPTEL 'Introduction to Industrial IOT 4.0'","Got Elite+Silver in NPTEL 'Introduction to IOT'","Successfully completed the NPTEL course 'Cloud Computing'","Successfully completed the NPTEL course 'Accredation and Outcome Based Education'","Acting as a NTA Observer."
+          ],
+          "roles": [
+              "Acting as a SAHELI, ICC Club Department Coordinator","Acting as a member in department NBA criteria 2."
+          ]
+      },
+      {
+          "name": "Mrs. N .Venkata padmavathi",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/N%20.Venkata%20padmavathi.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/N%20.Venkata%20padmavathi_profile.pdf",
+          "research_areas": [
+              "Not available"
+          ],
+          "email": "padmavathi1995padhu@gmail.com",
+          "phone": "+91 6303848868",
+          "experience": "11+ Years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in Amrita Sai Inst. Of Science And Technology, Vijayawada in 2021.",
+              "btech": "Computer Science and Engineering in Amrita Sai Inst. Of Science And Technology, Vijayawada in 2017."
+          },
+          "teaching_subjects": [
+              "Data Base Management System",
+              "Python"
+          ],
+          "publications": {
+              "journals": 0,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "ISTE",
+              "IAENG",
+              "ACM"
+          ],
+          "achievements_and_awards": [
+              "Not available"
+          ],
+          "roles": [
+               "Not available"
+          ]
+      },
+      {
+          "name": "Yarragunta Babu",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/babu_cse_new.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/babu_profile_cse.pdf",
+          "research_areas": [
+              "Machine learning","web technologies"
+          ],
+          "email": "babuyarragunta0@gmail.com",
+          "phone": "+918125272757",
+          "experience": "1+ years",
+          "education": {
+              "diploma": "Computer Engineering in AANM & VVRSR Polytechnic Gudlavalleru, Gudlavalleru in 2018.",
+              "mtech": "Computer Science and Engineering in Gandhi institute of technology and management Visakhapatnam, Visakhapatnam in 2023.",
+              "btech": "Computer Science and Engineering in V R Siddhartha Engineering College Vijayawada,Vijayawada in 2021."
+          },
+          "teaching_subjects": [
+              "Data Structures",
+              "Database Management Systems",
+              "C Programming"
+          ],
+          "publications": {
+              "journals": 1,
+              "conferences": 1,
+              "patents": 1
+          },
+          "professional_memberships": ["No memberships"],
+          "achievements_and_awards": [
+             "Currently no achievements and awards"
+          ],
+          "roles": [
+              "Not available"
+          ]
+      },
+      {
+          "name": "Mr. D. Sainath",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/T975_SAINATH%20DEVARA_PROFILE.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T975_SAINATH%20DEVARA_PROFILE.pdf",
+          "research_areas": [
+              "Machine Learning","Web Technologies"
+          ],
+          "email": ["sainath.devara888@lbrce.ac.in","sainath.devara888@gmail.com"],
+          "phone": "+91 8686433111",
+          "experience": "9+ Years",
+          "education": {
+              "phd": "Not Available",
+              "mtech": "Computer Science and Engineering in Lakireddy Bali Reddy College of Engineering, JNTUK, Kakinada in 2014.",
+              "btech": "Computer Science and Engineering in VRS & YRN College of Engineering, Chirala, JNTUK, Kakinada in 2010."
+          },
+          "teaching_subjects": [
+              "Cloud Computing"
+          ],
+          "publications": {
+              "journals": 2,
+              "conferences": 3,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "CSI",
+              "ISTE",
+              "IAENG",
+              "ACM"
+          ],
+          "achievements_and_awards": [
+              "Microsoft Certified Azure Fundamentals – 2020",
+              "Certified Pega Senior System Architect (CSSA) – 2019",
+              "Certified Pega System Architect (CSA) – 2018",
+              "Attended a workshop on “Big Data & Hadoop Technologies” conducted by “3*3 connect” at Lakireddy Bali Reddy Engineering College.",
+              "Attended a workshop on “Cloud Computing” conducted by CSI Annual Student Convention at Visakhapatnam Andhra University",
+              "Presented a Paper on “Palm Vein Technology”, held at Gitam’s Engineering College Visakhapatnam"
+  
+          ],
+          "roles": [
+              "Not available"
+          ]
+      },
+      {
+          "name": "Mohammed Sajeena",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/T973_SAJEENA_PROFILE.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T973_SAJEENA_PROFILE.pdf",
+          "research_areas": [
+              "Cyber Security",
+              "Machine learning"
+          ],
+          "email": "mdsajeena24@gmail.com",
+          "phone": "+91 9951486476",
+          "experience": "4+ years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University, Kakinada in 2020.",
+              "btech": "Computer Science and Engineering in NRI Institute of Technology, Agiripalli in 2018"
+          },
+          "teaching_subjects": ["Not available"],
+          "publications": {
+              "journals": 0,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": ["Currently doesn't hold any memberships"],
+          "achievements_and_awards": [
+              "Not available"
+          ],
+          "roles": [
+              "Not available"
+          ]
+      },
+      {
+          "name": "M. Gayathri",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/gayatri.jpeg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T959_GAYATHRI_PROFILE.pdf",
+          "research_areas": "Not Available",
+          "email": "gayathrimarakala@gmail.com",
+          "phone": "+91 9177724559",
+          "experience": "15+ Years",
+          "education": {
+              "phd": "Not Available",
+              "mtech": "Information Technology in JNTU college of Engineering Hyderabad in 2014.",
+              "btech": "Computer Science in Engineering in Swamy Vivekananda Institute of Technology in 2012"
+          },
+          "teaching_subjects": [
+              "Data Structures",
+              "Programming in C",
+              "It workshop",
+              "Mobile computing"
+          ],
+          "publications": {
+              "journals": 0,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "CSI",
+              "ISTE",
+              "IAENG",
+              "IEI"
+          ],
+          "achievements_and_awards": [
+             "Not Available"
+          ],
+          "roles": [
+              "Not Available"
+          ]
+      },
+      {
+          "name": "Mrs. B. NIROSHA",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/59_Nirosha.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T955_NIROSHA_PROFILE.pdf",
+          "research_areas": [
+              "Machine Learning"
+          ],
+          "email": "nirosha07.venus@gmail.com",
+          "phone": ["+91 9676868304","8309110665"],
+          "experience": "5+ Years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2019.",
+              "masters": "Master of Computer Application in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2010."
+          },
+          "teaching_subjects": [
+              "Software engineering",
+              "Deep learning",
+              "Dataware house and data mining",
+              "Software project management"
+          ],
+          "publications": {
+              "journals": 0,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "CSI",
+              "ISTE",
+              "IAENG",
+              "IEEE"
+          ],
+          "achievements_and_awards": [
+            "Not Available"
+          ],
+          "roles": [
+              "Not Available"
+          ]
+      },
+      {
+          "name": "Y. Praveen Kumar",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/58_Praveen.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T954_PRAVEENKUMAR_PROFILE.pdf",
+          "research_areas": [
+              "Information Security"
+          ],
+          "email": "ypraveen8086@gmail.com",
+          "phone": "+91 8121124352",
+          "experience": "7+ years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Information technology in VR Siddhartha Engineering College, Kanuru in 2015.",
+              "btech": "Computer Science and Engineering in Sarojini Institute of Technology, Telaprolu in 2013."
+          },
+          "teaching_subjects": [],
+          "publications": {
+              "journals": 0,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": [],
+          "achievements_and_awards": [
+              "Not available"
+          ],
+          "roles": [
+              "Worked as Lab assistant in IT Department in M.Tech.","Worked as system analyst in Intelligence Department."
+          ]
+      },
+      {
+          "name": "Mr. A. Koteswara Rao",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/57_Koteswararao.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T952_KOTESWARARAO_PROFILE.pdf",
+          "research_areas": [
+              "Internet of Things",
+              "Machine Learning"
+          ],
+          "email": ["koti093@lbrce.ac.in" , "koti093@gmail.com"],
+          "phone": "+91 9985467257",
+          "experience": "15+ Years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2013",
+              "btech": "Computer Science and Engineering in Andhra University, Visakhapatnam in 2006."
+          },
+          "teaching_subjects": [
+              "Java Programming",
+              "OOPs through C++"
+          ],
+          "publications": {
+              "journals": 4,
+              "conferences": 3,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "CSI",
+              "ISTE",
+              "IAENG",
+              "IEEE"
+          ],
+          "achievements_and_awards": [
+              "Developed application for Online Fee Payment Portal, Used Technologies are PHP and MySql at Andhra Loyola Institute of Engineering and Technology.","Developed a website to hold college NAAC Data of all criteria’s, Used Technologies are HTML, Bootstrap at Andhra Loyola Institute of Engineering and Technology.","Worked on AP Agricultural department applications from Netsmart technologies, Vijayawada. Used Technologies are Dotnet with Back-end MSSQL."
+          ],
+          "roles": [
+              "Worked as student’s feedback In-Charge.",
+              "Worked as discipline committee member.",
+              "Worked as Project coordinator."
+          ]
+      },
+      {
+          "name": "Kopparavuri Eswaree Devi",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/T930_Devi.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T930_Devi_PROFILE.pdf",
+          "research_areas": "Not Available",
+          "email": "eswari.nani196@gmail.com",
+          "phone": "+91 6301207493",
+          "experience": "3 Years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in Bapatla Engineering College in 2017",
+              "btech": "Computer Science and Engineering in Chirala Engineering College in 2015."
+          },
+          "teaching_subjects": [
+              "IT WORK SHOP LAB"
+  
+          ],
+          "publications": {
+              "journals": 2,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "IAENG",
+              "IRED"
+          ],
+          "achievements_and_awards": [
+            "Not Available"
+          ],
+          "roles": [
+               "Not Available"
+          ]
+      },
+      {
+          "name": "Rajasekhar Pittala",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/55_Rajasekhar.JPG",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T921_RAJASEKHAR_PROFILE.pdf",
+          "research_areas": [
+              "Data Science",
+              "Machine Learning"
+          ],
+          "email": ["rajasekhar.pittala@gmail.com","rajasekhar.pittala@lbrce.ac.in"],
+          "phone": ["+91 9848774434", "+91 9494602097"],
+          "experience": "8+ Years",
+          "education": {
+              "phd": "Computer Science and Engineering(Pursuing) in Puducherry Technological university(PTU), Puducherry",
+              "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, in 2015",
+              "btech": "Information Technology in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2010."
+          },
+          "teaching_subjects": [
+              "Software Testing Methodologies",
+              "Software Engineering",
+              "Database Management Systems",
+              "Computer Organization and Architecture",
+              "IT WORKSHOP",
+              "Introduction to Database Systems"
+              
+          ],
+          "publications": {
+              "journals": 5,
+              "conferences": 1,
+              "patents": 0
+          },
+          "professional_memberships": [
+              "CSI",
+              "ISTE",
+              "IAENG",
+              "ACM",
+              "IAAC"
+          ],
+          "achievements_and_awards": [
+              "Ratified as an Assistant Professor in the Department of CSE For JNTUH"
+          ],
+          "roles": [
+              "Acting as Department Examination Section Member (From JUNE 2023)",
+              "Acting as Department Admissions Committee Member(From April 2024)"
+          ]
+      },
+      {
+          "name": "P.Mary kamala Kumari",
+          "designation": "Assistant Professor at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/54_kamala.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T919_KAMALA_PROFILE.pdf",
+          "research_areas": [
+              "Cloud Computing"
+          ],
+          "email": "kamala.mutala@gmail.com",
+          "phone": "+91 9553775611",
+          "experience": "1+ years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014.",
+              "btech": "Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2009"
+          },
+          "teaching_subjects": [
+              "Cloud Computing"
+          ],
+          "publications": {
+              "journals": 1,
+              "conferences": 0,
+              "patents": 0
+          },
+          "professional_memberships": ["Currently doesn't hold any memberships"],
+          "achievements_and_awards": [
+         "Not Available"
+          ],
+          "roles": [
+              "Not Available"
+          ]
+      },
+      {
+          "name": "TUMU. VINEETHA",
+          "designation": "ASSISTANT PROFESSOR at Lakireddy Balireddy College of Engineering, Mylavaram",
+          "department": "Computer Science and Engineering",
+          "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/cse/43_vineetha.jpg",
+          "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/cse/T868_VINEETHA_PROFILE.pdf",
+          "research_areas": [
+              "Cloud Computing",
+              "Machine Learning"
+          ],
+          "email": "vineethatumu999@gmail.com",
+          "phone": "+91 8919226695",
+          "experience": "2 years",
+          "education": {
+              "phd": "Not yet done",
+              "mtech": "Computer Science and Engineering in LakiReddy Bali Reddy college of Engineering, Mylavaram in 2021.",
+              "btech": "Computer Science and Engineering in LakiReddy Bali Reddy college of Engineering, Mylavaram in 2019."
+          },
+          "teaching_subjects": [
+              "Cloud Computing",
+              "IT WORKSHOP",
+              "SOFTWARE ENGINEERING",
+              "SHELL SCRIPTING",
+              "PRINCIPLES OF ARTIFICIAL INTELLIGENCE"
+          ],
+          "publications": {
+              "journals": 0,
+              "conferences": 1,
+              "patents": 0
+          },
+          "professional_memberships": ["Currently doesn't hold any memberships"],
+          "achievements_and_awards": [
+              "Not Available"
+          ],
+          "roles": [
+              "Acting as a SAHELI, ICC Club Department Coordinator",
+              "Handling NCC File"
+          ]
+      }
+      ]
+    }
+  ,{
+    "name": "Electrical and Electronics Engineering",
+    "department" : ["EEE", "Electrical Engineering", "Electrical and Electronics Engineering", "EE"],
+    "hod": "Dr. J.Sivavara Prasad",
+    "courses": [
+      "Artificial Intelligence and Machine Learning",
+      "Data Structures and Algorithms",
+      "Operating Systems",
+      "Cloud Computing"
+    ],
+    "faculty": [
+    {
+        "name": "Dr. J.Sivavara Prasad",
+        "designation": "Professor and HOD at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",       
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T546_JSVP_SIVA_VARA_PRASAD.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T546_SIVAVARA%20PRASAD_PROFILE.pdf",
+        "research_areas": [
+            "Power Electronics & Drives",
+            "Renewable Energy","Technologies and Electric Vehicles"
+        ],
+        "email": ["hodeee@lbrce.ac.in","janapatisivavaraprasad@gmail.com"],
+        "phone": "+91 8500230515",
+        "experience": "17+ Years",
+        "education": {
+            "phd": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in April, 2018.",
+            "mtech": "Power & Industrial Drives from Jawaharlal Nehru Technological University Anantapur, Anantapur in 2008.",
+            "btech": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2005"
+        },
+        "teaching_subjects": ["Power Electronics","Basic Microprocessors & Microcontrollers","Microprocessors & Microcontrollers","Electrical Machines-I"],
+        "publications": {
+            "journals": 20,
+            "conferences": 8,
+            "patents": 2
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG","IEI","IETE","IEEE"
+        ],
+"achievements_and_awards": ["Recipient of National Merit Scholarship for the performance in SSC exams appeared in 1999.","College topper for the performance in B.Tech course studied during 2001-2005.","University topper for the performance in M..Tech course studied during 2006-2008.","Received the best faculty award from Vignan’s Institute of Technology & Science,Hyderabad in the occasion of teacher’s day.","Best Teacher Award at LBRCE in 2020 & 2021"],
+        "roles": [
+            "Acting as HOD, Department of EEE (Since September 2020)","Acted as department PG Program coordinator in LBRCE, Mylavaram. (from 2015-2019)","Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram (from 2016-2019)","Member in BoS, DAC, & PAC (Since 2014)","Acted as a department budget coordinator in LBRCE, Mylavaram. (from 2016-2019)","Acted as a mini & main project coordinator in LBRCE, Mylavaram. (from 2014-2017)","Served as an Exam branch in charge from September 2008 to May 2010 in Vignan’s Institute of Technology & Aeronautical Engineering, Hyd."
+        ]
+    },
+    {
+        "name": "Dr. K.Ramalingeswara Prasad",
+        "designation": "Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T316_KRL_PRASAD.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T316%20RLP%20Profile%2022021-22.pdf",
+        "research_areas": "Not Available",
+        "email": "krlp050581@gmail.com",
+        "phone": " 9010117116",
+        "experience": "17 Years",
+        "education": {
+             "phd": "Electrical & Electronics Engineering from Acharya Nagarjuna University, Guntur in 2017.",
+"mtech": "Electrical & Electronics Engineering from College of Engineering Pune, Pune in 2005.",
+"btech": "Electrical & Electronics Engineering from SVH College of Engineering, Acharya Nagarjuna University in 2002."
+        },
+        "teaching_subjects": [
+            "Electrical Circuits","Control Systems","Electro Magnetic Fields","Linear System Analysis","Power Electronics","Digital Signal Processing","HVDC & Power Converters."
+        ],
+        "publications": {
+            "journals": 22,
+            "conferences": 8,
+            "patents": 3
+        },
+        "professional_memberships": [
+            "ISTE","IETE","IEI"
+        ],
+        "achievements_and_awards": ["Ratifies as Professor by JNTUK, Kakinada in 2022","Delivered an Expert Talk on “NAAC revised accreditation frame work” at LBRCE college,Mylavaram","Delivered an Expert Talk on “NAAC revised accreditation frame work” at Raghu Engineering college, Vizag.","Delivered an Expert Talk on “NAAC revised accreditation frame work” at Priyadarshini College engineering college, Nellore.","Delivered an Expert Talk on “NAAC revised accreditation frame work” at Govt. Degree college, Mylavaram","Delivered an Expert Talk on “NAAC revised accreditation frame work and OBE” at DIET,Vishakhapatnam","NAAC Advisor Member for different engineering colleges at Andhra Pradesh.","Best Teacher Award at LBRCE in Sep 2022,2018,2019 & 2017","Elite (Top 5%) from NPTEL online certification course (8 Weeks) on 'Control Engineering' conducted by IIT Madras in the year 2018.","Certificate from NPTEL (SPOC-College was rated as ‘AA’) in the A.Y:2018-19","Certificate from NPTEL(Elite for the course Outcome Based Pedagogic Principles for Effective Teaching)","Got 94.9 percentile in GATE-2003","One of research paper was selected as Best Paper in International Conference on Systamics Cybernetics and Informatics (ICSCI-2008)."],
+        "roles": ["Prof.In-Charge, Information Center","NAAC Central Coordinator since 2014","NIRF Coordinator","NBA Criterion-III & VII central coordinator","SPOC - AICTE and AISCHE","Department NBA Coordinator (2008, 2014, 2019 and 2022)","Member, IQAC","Member, Governing Body","Member, Academic Council","Indo Euro Sync-ARC trained faculty","Member in BoS, DAC, & PAC (Since 2014)","Module Coordinator","NPTEL – SPOC (2016-17 & 2017-18)","Control Systems Lab In-charge","B.Tech Major project Coordinator"]
+    },
+    {
+        "name": "Dr. M.UmaVani",
+        "designation": "Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T178_UMA_VANI_MARREDDY.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T178_Dr%20M%20UmaVani_Profile_EEE%20Dept.pdf",
+        "research_areas": [
+            "Power Quality studies",
+            "Artificial Intelligence","Signal Processing","ML applications to Electric Vehicles","Micro-Grid","Smart Grid","DG Technologies"
+        ],
+        "email": "umamarreddy@lbrce.ac.in",
+        "phone": "+91 9542986377",
+        "experience": "24 Years",
+        "education": {
+            "phd": "Electrical Engineering, JNTU Hyderabad, India, January 2012",
+            "mtech": "Power Systems Engineering, REC-Warangal, Kakatiya University, India, 2002.",
+            "btech": "Electrical & Electronics Engineering, V R Siddhartha Engineering College,Vijayawada, affiliated to ANUCET Guntur, India, 1993."
+        },
+        "teaching_subjects": [
+            "Digital Electronics","Universal Human Values-II","Digital Logic Circuit Design","Power System Analysis"
+        ],
+        "publications": {
+            "journals": 24,
+            "conferences": 11,
+            "patents": 1
+        },
+        "professional_memberships": [
+            "ISTE","ISVE","IE","IETE","IEEE"
+        ],
+"achievements_and_awards": "Not Available",
+        "roles": [ "HoD, EEED at LBRCE, Mylavaram for 12 years",
+    "Member, PG admissions & R&D committee at LBRCE (2014-19)",
+    "Member of Academic Council at LBRCE (2014-19)",
+    "Chairman, BOS B.Tech & M.Tech Programs at LBRCE (2014-19) (R14, R17)",
+    "Member, BOS B.Tech & M.Tech Programs at LBRCE (2010) (R10 & R11)",
+    "Chairperson, Committee for Protection Against Sexual Harassment of Girl Students and Women at LBRCE (2003-2012)",
+    "Member, Anti-Ragging Committee at LBRCE (2002-19)",
+    "Convener, Saheli-Girls Club at LBRCE (2016-19)",
+    "IEEE Student Branch Counsellor at LBRCE (2016-19)",
+    "Warden, Girls Hostel at LBRCE (1999-2001)",
+    "Professor & HoD, EEED at K L U, Vaddeswaram (2012-14)",
+    "Chairman, BOS B.Tech & M.Tech Programs at K L U, Vaddeswaram (2013) (R13)",
+    "Member of Academic Council at K L U, Vaddeswaram (2012-14)",
+    "Head, Power Systems Research Group at K L U, Vaddeswaram (2012-14)",
+    "Member, M.Tech Projects Review Committee at K L U, Vaddeswaram (2012-14)",
+    "UG/PG Coordinator at K L U, Vaddeswaram (2012-13)",
+    "Chairperson, Committee for Protection Against Sexual Harassment of Girl Students and Women at K L U, Vaddeswaram (2013-14)",
+    "Prof. In-Charge, Information Center at LBRCE",
+    "NAAC Central Coordinator at LBRCE (Since 2014)",
+    "NIRF Coordinator at LBRCE",
+    "NBA Criterion-III & VII Central Coordinator at LBRCE",
+    "SPOC - AICTE and AISCHE at LBRCE",
+    "Department NBA Coordinator at LBRCE (2008, 2014, 2019, 2022)",
+    "Member, IQAC at LBRCE",
+    "Member, Governing Body at LBRCE",
+    "Member, Academic Council at LBRCE",
+    "Indo Euro Sync-ARC Trained Faculty at LBRCE",
+    "Member in BoS, DAC, & PAC at LBRCE (Since 2014)",
+    "Module Coordinator at LBRCE",
+    "NPTEL – SPOC at LBRCE (2016-17 & 2017-18)",
+    "Control Systems Lab In-Charge at LBRCE",
+    "B.Tech Major Project Coordinator at LBRCE"]
+    },
+    {
+        "name": "Dr.K.Harinadha Reddy",
+        "designation": "Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T119_HARINADHA_REDDY.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T119-Dr.K.%20HARINADHA%20REDDY.pdf",
+        "research_areas": [
+    "Power Electronics",
+    "Renewable Energy",
+    "Electric Drives"
+],
+        "email": "kadapa.hari@gmail.com",
+        "phone": "+91 9885078932",
+        "experience": "18+ Years",
+        "education": {
+           "phd": "Electrical & Electronics Engineering from Karnataka",
+    "mtech": "Electrical Poweer System-HV from Jawaharlal Nehru Technological University,Kakinada.",
+    "btech": "Electrical Power Systems from Andhra University"
+        },
+        "teaching_subjects": ["Power Electronics",
+    "Electrical Machines",
+    "Control Systems",
+    "Microprocessors & Microcontrollers"],
+        "publications": {
+            "journals": 10,
+            "conferences": 0,
+            "patents": 2
+        },
+        "professional_memberships": ["IEEE","IETE","IE"],
+"achievements_and_awards": "Best Researcher Award from JNTUA.",
+        "roles": ["Served as HOD, Department of EEE.",
+    "Acted as NBA and NAAC Coordinator.",
+    "Member in BoS & PAC."]
+    },
+    {
+        "name": "Dr. P.Sobha Rani",
+        "designation": "Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T690_SOBHA_RANI.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T690_Sobha%20Rani_PROFILE.pdf",
+        "research_areas": [
+            "Power Quality",
+            "Micro grid",
+            "optimization techniques","Distributed generation","Electrical distribution systems"
+        ],
+        "email": "sobhareveru@gmail.com",
+        "phone": "+91 9959108386",
+        "experience": "25+ Years",
+        "education": {
+            "phd": "Electrical and Electronics Engineering from Sri Venkateswara university college of Engineering, Tirupati in 2016.",
+            "mtech": "Power systems from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2006.",
+            "MS":"Electronics Engineering from BITS Pilani, in 2000",
+            "btech": "Electrical and Electronics Engineering from Sri Venkateswara university college of Engineering, Tirupati in 1991."
+        },
+        "teaching_subjects": ["Power system operation &control","Power system-III","Power System Protection","Power System Analysis","Universal Human Values-II","Measurements & Instrumentation"],
+        "publications": {
+            "journals": 22,
+            "conferences": 6,
+            "patents": 1
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG"
+        ],
+"achievements_and_awards":["Best Research Paper award in ICEESC-2021","Best Teacher Award at LBRCE in 2020-21, 2021-22"],
+        "roles": ["Member in BoS, DAC (Since 2015)","Acting as Presiding officer, Internal complaints committee in LBRCE, Mylavaram","Acted as department budget coordinator in LBRCE, Mylavaram (from 2017-19)","Served as HOD, Dept. EEE in N.B.K.R.I.S.T, Vidyanagar (from2006-2010)","Served as BoS coordinator for UG program in N.B.K.R.I.S.T, Vidyanagar (from2006-2015)"
+        ]
+    },
+    {
+        "name": "Dr.M.S.Giridhar",
+        "designation": "Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T193_GIRIDHAR.bmp",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T193-Dr.%20M.S.GIRIDHAR%20Profile%20-EEED.pdf",
+        "research_areas": [
+            "Optimization Techniques applied to Renewable Energy sources and Electrical Power Distribution Systems."
+        ],
+        "email": ["munigoti7@lbrce.ac.in","munigoti7@gmail.com"],
+        "phone": "+91 9492071771",
+        "experience": "21+ Years",
+        "education": {
+            "phd": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in February, 2017",
+            "mtech": "Energetics (Power Systems) from Regional Engineering College (REC), Calicut, Calicut University, in 2002",
+            "btech": "Electrical & Electronics Engineering from K.S.R.M.College of Engineering, under S.V.University in 1999."
+        },
+        "teaching_subjects": ["Power System Protection","Universal Human Values","Electrical Safety","Power System Analysis","Optimization Techniques forElectrical Engineering Electrical","Reliability Engineering"],
+        "publications": {
+            "journals": 10,
+            "conferences": 6,
+            "patents": 1
+        },
+        "professional_memberships": ["ISTE","IEI","IEEE"],
+"achievements_and_awards":["Best Paper Award – National System Society Conference-2004, VIT, Vellore.","Best Paper Award – National Conference on Recent Advances in ElectricalEngineering-2016, AITS, Rajampet.","Best Project-work (Student-Guide) Award at LBRCE in 2020-2021"],
+        "roles": ["Acting as HOD, Department of EEE, LBRCE (Dec-2019 to Nov-2020)","Acted as department PG Program coordinator in SITAMS, Chittoor. (from 2009-2017)","Acted as a department NBA and NAAC in SITAMS, Chittoor (from 2005-2017)","Member in BoS, DAC, & PAC (Since 2017 at LBRCE)","Acted as a mini & main project coordinator at SITAMS, Chittoor. (from 2005-2017)","Acted as HOD, Department of EEE, MITS, Madanapalle (Sept-2004 to March-2005)"]
+    },
+    {
+        "name": "Dr. G.Nageswara Rao",
+        "designation": "Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T204_GUDIPUDI_NAGESWARA.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T204_Dr.%20G%20NRPROFILE.pdf",
+        "research_areas": [
+            "AI Techniques",
+            "Power Systems"
+        ],
+        "email": ["gnrgudipudi@Lbrce.ac.in","gnrgudipudi@gmail.com"],
+        "phone": "+91 9247876900",
+        "experience": "21 Years",
+        "education": {
+            "phd": "Electrical and Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2017.",
+            "mtech": "Power Systems from Acharya Nagarjuna university, Guntur in 2006.",
+            "btech": "AMIE in Electrical Engineering from the Institution of Engineers (I), Kolkata in 2000."
+        },
+        "teaching_subjects": ["Power Systems-1","Energy Conservation & Audit","Fundamentals of Electrical Engineering","Power System Analysis","Electrical Measurements"],
+        "publications": {
+            "journals": 42,
+            "conferences": 11,
+            "patents": 6
+        },
+        "professional_memberships": [
+            "ASMIE","MISTE","IACSIT","IAENG"
+        ],
+"achievements_and_awards":["Award of Excellence in Research in Global Eminent Researcher Award– 2022","Best Teacher Award at LBRCE in 2021 "],
+        "roles": ["Acting as Department R & D Coordinator (Since November 2022)","Acting as Central GRIEVANCES REDRESSAL COMMITTEE Coordinator (Since March 2022)","Department NBA Criteria 9 Coordinator (from January 2014 to November 2021)","Coordinator for Department Audit (Since December 2021)"]
+    },
+    {
+        "name": "Dr. A.V.G.A.Marthanda",
+        "designation": "Associate Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T719_MARTHANDA.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T719%20Dr.A.V.G.A.MARTHANDA.pdf",
+        "research_areas": [
+            "Renewablepower power sources",
+            "control of Electrical drives","ENERGY","FUELSPOWERELECTRONICS"
+        ],
+        "email": ["avgam989@gmail.com","myenergysai4u@gmail.com"],
+        "phone": "+919441660989,",
+        "experience": "17 Years ( Academic)",
+        "education": {
+            "phd": "Electrical and Electronics Engineering from SRI VENKATESWARA UNIVERSITY,TIRUPATI in 2019.",
+            "mtech": "Energy Management ( inter-discipline courses) from SRI VENKATESWARA UNIVERSITY,TIRUPATI in 2003.",
+            "btech": "Electrical and Electronics Engineering from Andhra University Visakhapatnam,(GITAM) in 1993"
+        },
+        "teaching_subjects": ["Energy conservation& Management(ECM)","Constitutionof India","Renewable Energy Technologies"],
+        "publications": {
+            "journals": 14,
+            "conferences": 10,
+            "patents": 6
+        },
+        "professional_memberships": [
+            "ISTE"
+        ],
+        "achievements_and_awards":["Acting As S.D.C Department Cordinator","Acting As IIEC Department Cordinator","Acting As Lab In Charge (Mpmc )"],
+        "roles": ["Acting As Dept. Academic Auditor","Acting As Dept. Discipline In Charge","Acting As Student mentor ( 22 batch 20 students)"]
+    },
+    {
+        "name": "Dr. B.Pangedaiah",
+        "designation": "Sr. Asst. Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Not Available",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T363_PANGEDAIAH.JPG",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T363_PANGEDAIAH_PROFILE.pdf",
+        "research_areas": [
+            "Signal Processing",
+            "Power system protection",
+            "Renewable Energy Technologies."
+        ],
+        "email": "pangedaiah@gmail.com",
+        "phone": "+91 9490988779",
+        "experience": "16+ Years",
+        "education": {
+            "phd": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in August, 2022.",
+            "mtech": "Power & Industrial Drives from Jawaharlal Nehru Technological University Kakinada, Kakinada in July, 2011",
+            "btech": " Electrical & Electronics Engineering from Andhra University in April 2006."
+        },
+        "teaching_subjects": ["JAVA Programming(SOC)","Linear and Digital IC Applications","C-Programming","Advanced Digital Signal Processing"],
+        "publications": {
+            "journals": 14,
+            "conferences": 2,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG","IEI","IETE","IEEE"
+        ],
+"achievements_and_awards": ["Best Ph.D. Thesis in JNTUK, Kakinada (A.Y 2022-23).","Best Teacher Award at LBRCE in 2018."],
+        "roles": ["Member in PAC.","Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram"]
+    },
+    {
+        "name": "Mr.P.Deepak Reddy",
+        "designation": "AssociateProfessor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T261_DEEPAK.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T261_Deepak%20Reddy_PROFILE.pdf",
+        "research_areas": [
+            "Power Electronics & Drives"
+        ],
+        "email": ["deepakreddy@lbrce.ac.in","pdeepakr@gmail.com"],
+        "phone": "+91 9866169303",
+        "experience": "17+ Years",
+        "education": {
+            "mtech": "Power Electronics from Vellore Institute of Technology, Vellore in 2005.",
+            "btech": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2002"
+        },
+        "teaching_subjects": ["Solid State Drives","Electronics Circuits and Devices","Network Theory-II","Analog and Digital Signal Processing"],
+        "publications": {
+            "journals": 10,
+            "conferences": 1,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG","IEI","IETE","IEEE"
+        ],
+"achievements_and_awards": "Not Available",
+        "roles": ["Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram","Member in DAC","Served as an Exam branch in charge from 2008 to 2009 in LBRCE, Mylavaram","Asst. Controller of Examinations (Autonomous) (2012-13)","Department Alumni Coordinator (2014-15 & 2015-16)","Member in BoS (2016-17)","PG coordinator (2017-18)","Module Coordinator","IEEE SB coordinator","Central Audit coordinator","Power Electronics Lab In-charge","Central Anti Ragging Committee member","CRC coordinator","Alumni coordinator"]
+    },
+    {
+        "name": "Mr. R.Anjaneyulu Naik",
+        "designation": "Associate Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T407_Anji_Naik.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T407_RANAIK_PROFILE.pdf",
+        "research_areas": [
+            "MEMS and Smart Sensors"
+        ],
+        "email": "anjuiitmadras@gmail.com",
+        "phone": "+91 9885082543",
+        "experience": "19+ Years",
+        "education": {
+            "mtech": "Electrical Engineering from IIT MADRAS in 2003.",
+            "btech": "Electronics & Instrumentation Engineering from Kakatiya University Warangal in 2000."
+        },
+        "teaching_subjects": ["Electronic Circuit and Devices","Analog Electronics","Instrumentation Technology","Control Systems","Industrial Instrumentation"],
+        "publications": {
+            "journals": 3,
+            "conferences": 2,
+            "patents": 2
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG","IETE","IEEE"
+        ],
+"achievements_and_awards": "Best Teacher Award at LBRCE in 2014",
+        "roles": ["Acted as HOD, Department of EIE","Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram (from 2010-2020)","Member in BoS, DAC, & PAC 2010-2020"]
+    },
+    {
+        "name": "Dr. Y.Raghuvamsi",
+        "designation": "Sr. Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "EEE",
+        "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T794_YARLAGADDA_RAGHUVAMSI.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T794_YARLAGADDA_RAGHUVAMSI.pdf",
+        "research_areas": [
+            "Distribution Systems",
+            "Deep Learning",
+            "Renewable Energy Sources "
+        ],
+        "email": ["vamsi777raghu@gmail.com","yvraghu.34@gmail.com"],
+        "phone": " 8074701733",
+        "experience": "5+ Years",
+        "education": {
+            "phd": "Electrical Engineering from National Institute of Technology Andhra Pradesh, Tadepalligudem in 2024.",
+            "mtech": "Power Systems Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2015",
+            "btech": " Electrical and Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012."
+        },
+        "teaching_subjects": ["Basic Electrical & Electronics Engineering","Electrical Engineering Materials","Analog and Digital Signal Processing","Linear and Digital IC Applications","Intelligent Control Systems","Digital Electronic Circuits"],
+        "publications": {
+            "journals": 9,
+            "conferences": 7,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE"
+        ],
+"achievements_and_awards": ["Got Elite certificate with Top 1% score from NPTEL online certification course (12 Weeks)on 'Digital Circuits' conducted by IIT Kharagpur in the year 2018.","Secured 1st position in M.Tech (Power Systems Engineering) course by scoring an overall CGPA of 9.60 out of 10.","Received meritorious scholarship from MHRD in M. Tech and Ph. D"],
+        "roles": ["Acted as a main project coordinator in EEE department, LBRCE, Mylavaram.","Acting as Get-C Lab Incharge and Internship coordinator."]
+    },
+    {
+        "name": "T.HIMABINDU",
+        "designation": "Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T910_Bindu.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T910-T.HIMABINDU%20PROFILE.pdf",
+        "research_areas": "Not Available",
+        "email": "talluribindu261@gmail.com",
+        "phone": "+91 9611406547",
+        "experience": "2+ Years",
+        "education": {
+            "mtech": "Power and Industrial Drives at Aditya College Of Engineering Kakinada In 2015",
+            "btech": "Electrical and Electronics Engineering at Vasireddy Venkatadri Institute Of Technology In 2008"
+        },
+        "teaching_subjects": [
+            "Constitution of INDIA",
+            "Basic electrical &electronics engineering",
+            "Electrical Measurements",
+            "DC Machines and Transformer"
+        ],
+        "publications": {
+            "journals": 0,
+            "conferences": 0,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "IAENG"
+        ],
+        "achievements_and_awards":[
+            "VI Semester topper for the performance in B.Tech course in 2011",
+            "School topper in ssc in 2006"
+        ],
+        "roles": [
+            "Not Available"
+        ]
+    },
+    {
+        "name": "Mr. RATHNAKAR KUMAR P",
+        "designation": "Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T770_RATNAKAR.jpeg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T770_RATHNAKAR%20KUMAR%20P.pdf",
+        "research_areas": [
+            "Power Systems",
+            "Renewable Energy Systems",
+            "Electric Vehicles"
+        ],
+        "email": "rathna228@gmail.com",
+        "phone": "+91 9703878093",
+        "experience": "10+ Years",
+        "education": {
+            "phd": "Pursuing Electrical & Electronics Engineering at Jawaharlal Nehru Technological University, Kakinada.",
+            "mtech": "Electrical Power Systems (2013-2015) at Jawaharlal Nehru Technological University, Hyderabad.",
+            "btech": "Electrical & Electronics Engineering (2006-2010) at Jawaharlal Nehru Technological University, Kakinada."
+        },
+        "teaching_subjects": [
+            "High Voltage Engineering",
+            "Electric Vehicles",
+            "Electrical Reliability Engineering",
+            "Energy Conservation & Audit",
+            "Basic Electrical & Electronics Engineering"
+        ],
+        "publications": {
+            "journals": 6,
+            "conferences": 3,
+            "patents": 1
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IEEE"
+        ],
+        "achievements_and_awards":[
+            "Got certified with Elite+Silver from NPTEL online certification course (8 Weeks) on ACCREDITATION AND OUTCOME BASED LEARNING conducted by IIT KHARAGPUR in Aug-Oct 2019."
+        ],
+        "roles": [
+            "Acting now as dept Placement coordinator (Since 2019)","department budget coordinator",
+            "Acted as dept Games, Sports, Yoga coordinator",
+            "Acted as dept SDC coordinator",
+            "Acted as dept NPTEL coordinator",
+            "Acted as dept NSS coordinator"
+        ]
+    },
+    {
+        "name": "Mrs.ROWTHU PADMA",
+        "designation": "Sr.Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T757_PADMA.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T757_PADMA.pdf",
+        "research_areas": [
+            "Power Electronics & Drives",
+            "Renewable Energy Sources",
+            "AI Techniques",
+            "Electric Vehicles"
+        ],
+        "email": "padmarowthu88@gmail.com",
+        "phone": "+91 8465806389",
+        "experience": "10+ Years",
+        "education": {
+            "phd": "Pursuing in Electrical & Electronics Engineering at Jawaharlal Nehru Technological University, Kakinada.",
+            "mtech": "Power Electronics & Drives (2014-2016) at Jawaharlal Nehru Technological University, Kakinada.",
+            "btech": "Electrical & Electronics Engineering (2008-2012) at Jawaharlal Nehru Technological University, Kakinada."
+        },
+        "teaching_subjects": [
+            "Utilization of Electrical Energy",
+            "Programming for Problem solving using C",
+            "Basic Electrical & Electronics Engineering",
+            "Analog and Digital Signal Processing",
+            "High Voltage Engineering"
+        ],
+        "publications": {
+            "journals": 8,
+            "conferences": 3,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IEEE"
+        ],
+        "achievements_and_awards":[
+            "Got certified with Elite+Silver from NPTEL on line certification course(8Weeks)on ACCREDITATION AND OUTCOME BASED LEARNING conducted by IIT KHARAGPUR in Aug-Oct2019"
+        ],
+        "roles": [
+            "Acting as dept Project coordinator (Since 2022)",
+            "Acting as Budget coordinator (Since 2021)",
+            "Acted as Central NCC coordinator",
+            "Acted as dept NCC coordinator",
+            "Acted as dept Alumni coordinator",
+            "Acted as dept M.Tech Project coordinator"
+        ]
+    },
+    {
+        "name": "Mrs. G.TABITA",
+        "designation": "Sr. AssistantProfessor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T730_TABITA_GANDHAM.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T730_TABITA%20GANDHAM_EEE_PROFILE.pdf",
+        "research_areas": [
+            "Distribution Generation",
+            "Power Quality","Power Electronic Converters"
+        ],
+        "email": "gandham820@gmail.com",
+        "phone": "+91 7993251820",
+        "experience": "16+ Years",
+        "education": {
+            "phd": "Pursuing in Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Anantapur, Anantapursince 2020",
+            "mtech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014.",
+            "btech": "Electrical & Electronics Engineering at  Acharaya Nagarjuna University, Guntur in 2005"
+        },
+        "teaching_subjects": [
+            "Advance Control Systems",
+            "Solid State Drives",
+            "Energy Conservation and Audit",
+            "Control Systems",
+            "Machine Modelling Analysis",
+            "Basic Electrical Engineering"
+        ],
+        "publications": {
+            "journals": 12,
+            "conferences": 1,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "ISRD",
+            "IEEE"
+        ],
+        "achievements_and_awards":[
+            "Not Available"
+        ],
+        "roles": [
+            "Worked as Project Coordinator in LBRCE.",
+            "Worked as Department Library in-charge atLBRCE.",
+            "Working as Central Saheli mentor & Department Coordinator in LBRCE.",
+            "Working as Department Alumni in-charge at LBRCE.",
+            " Working as Department NCC Coordinator at LBRCE"
+            
+        ]
+    },
+    {
+        "name": "Mr. Imran Abdul",
+        "designation": "Sr. AssistantProfessor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T707_IMRAN.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T707_IMRAN%20ABDUL_EEE_PROFILE.pdf",
+        "research_areas": [
+            "Power systems","Renewable Energy Technologies"
+        ],
+        "email": "abdulimran201@gmail.com",
+        "phone": "+91 9014246684",
+        "experience": "8+ Years",
+        "education": {
+            "phd": "Electrical & Electronics Engineering at Andhra University, Visakhapatnamsince 2021.",
+            "me": "Electrical and Electronics Engineering at Andhra University, Visakhapatnam in Feb 2015",
+            "btech": "Electrical & Electronics Engineering at Acharya Nagarjuna University in 2009"
+        },
+        "teaching_subjects": [
+            "Utilization of Electrical Engineering",
+            "Classical and Meta Heuristic Optimization Techniques",
+            "Power Systems-I",
+            "Power System protection",
+            "Basic Electrical & Electronics Engineering"
+        ],
+        "publications": {
+            "journals": 5,
+            "conferences": 1,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "AMIE"
+        ],
+        "achievements_and_awards":[
+            "Not Available"
+        ],
+        "roles": [
+            "Worked Department Placement Coordinator at LBRCE",
+            "Worked as Information cell Coordinator/website in charge at LBRCE.",
+            "Worked as Dept Budget Coordinator at LBRCE"
+        ]
+    },
+    {
+        "name": "Mrs.K.S.L.Lavanya",
+        "designation": "Sr.Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T705_LAVANYA.JPG",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T705_K.S.L.LAVANYA%20PROFILE.pdf",
+        "research_areas": "Not Available",
+        "email": "ksllavanya4@gmail.com",
+        "phone": "+91 9703494046",
+        "experience": "10+ Years",
+      "education": {
+        "phd": "Registered in 2020, EEE, Andhra University, AU, Vizag",
+        "mtech": "2014, PSAC, PVPSIT, JNTUK",
+        "btech": "2010, EEE, LBRCE, JNTUK"
+        },
+
+        "teaching_subjects": [
+            "Power Systems-1",
+            "Utilization of Electrical Energy",
+            "Renewable Energy sources",
+            "High Voltage DC Transmission"
+        ],
+        "publications": {
+            "journals": 7,
+            "conferences": 3,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IEI",
+            "IAENG"
+        ],
+        "achievements_and_awards":[
+            "Not Available"
+        ],
+        "roles": [
+            "Acting as aDepartment NPTEL coordinator in LBRCE, Mylavaram.",
+            "Acting as a Department Alumni Cordinator",
+            "Acted as a department Faculty Events coordinator in LBRCE, Mylavaram. (from 2019-2022)",
+            "Acted as a Department Exam cell incharge in LBRCE,Mylavaram from 2015-2019"
+        ]
+    },
+    {
+        "name": "Mr. K.NAGALINGA CHARY",
+        "designation": "Sr. AssistantProfessor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T677_NAGALINGACHARY.png",
+        "pdf_url": "http://lbrce.ac.in/faculty/profiles/eee/T677_NAGALINGA%20CHARY_EEE_PROFILE.pdf",
+        "research_areas": [
+            "Power Electronics","Renewable Energy Systems"
+        ],
+        "email": "sivanagalingachary@gmail.com",
+        "phone": "+91 9177609202",
+        "experience": "16+ Years",
+        "education": {
+            "phd": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada since 2019.",
+            "mtech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2013.",
+            "btech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008."
+        },
+        "teaching_subjects": [
+            "Electrical Machines-II",
+            "Electrical Machines-I",
+            "Control Systems"
+        ],
+        "publications": {
+            "journals": 14,
+            "conferences": 1,
+            "patents": 1
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG",
+            "IEEE",
+            "AMIE"
+        ],
+        "achievements_and_awards":[
+            "Not Available"
+        ],
+        "roles": [
+            "Worked as Incharge HOD at Newton’s Institute of Engineering College.",
+            "Worked as Time Table in-charge atLBRCE.",
+            "Worked as Criteria-9 Coordinator for NBA at LBRCE",
+            "Working as Central Discipline in-charge at LBRCE.",
+            "Working as IEEE student Branch in-charge at LBRCE.",
+            "Working as Class Review Committee in-charge at LBRCE."
+        ]
+    },
+    {
+        "name": "Mr. A.V.RAVIKUMAR",
+        "designation": "Sr. Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T673_RAVI_KUMAR.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T673_RAVIKUMAR_EEE_PROFILE.pdf",
+        "research_areas": [
+            "Power systems and Power Electronics"
+        ],
+        "email": ["ravi0258@gmail.com","rv_ande@yahoo.co.in"],
+        "phone": "+91 9291496400",
+        "experience": "16+ Years",
+        "education": {
+            "phd": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada since 2021",
+            "mtech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2011",
+            "btech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2006."
+        },
+        "teaching_subjects": [
+            "Power Systems-II",
+            "Control Systems",
+            "Measurements and Instrumentation",
+            "Basic Electrical & Electronics Engineering",
+            "Network Theory-II",
+            "Electrical Power Transmission"
+        ],
+        "publications": {
+            "journals": 16,
+            "conferences": 1,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IEEE",
+            "AMIE",
+            "ISRD",
+            "IAENG"
+        ],
+        "achievements_and_awards":[
+            "Not Available"
+        ],
+        "roles": [
+            "Worked as Head of the Department at Eswar college of Engineering.",
+            "Worked as Exam section coordinator in VYCET.",
+            "Worked as Department Exam section in-charge at LBRCE.",
+            "Worked as Criteria-5 Coordinator for NAAC at LBRCE",
+            "Worked as Department Placement Coordinator at LBRCE."
+        ]
+    },
+    {
+        "name": "Mr.P.Srihari",
+        "designation": "Senior Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T582_SRIHARI.JPG",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T582_SRIHARI_PROFILE.pdf",
+        "research_areas": [
+            "Power Systems",
+            "Renewable Energy forecasting techniques",
+            "AI applications to Power Systems",
+            "Deep Learning."
+        ],
+        "email": ["parrisrihari@gmail.com", "hari9229@gmail.com"],
+        "phone": "+91 8008608684",
+        "experience": "13+ Years",
+        "education": {
+            "phd": "Electrical Engineering at National Institute of Technology -Andhra Pradesh.",
+            "mtech": "Power Systems Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+            "btech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008"
+        },
+        "teaching_subjects": [
+            "Basic Electrical and Electronics Engineering",
+            "Fundamentals of Electrical Engineering",
+            "Power Systems-I",
+            "Power System Operation and Control",
+            "FACTS Controllers"
+        ],
+        "publications": {
+            "journals": 10,
+            "conferences": 3,
+            "patents": 2
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IAENG",
+            "IEI",
+            "IEEE",
+            "IETE"
+        ],
+        "achievements_and_awards":[
+            "School Topper in SSC exams appeared in 2002.",
+            "Won first prize in District Level Quiz and Essay Writing Competitions.",
+            "Best Teacher Award at LBRCE in 2013,2014,2015,2016,2017,2018,2019,2020 & 2021."
+        ],
+        "roles": [
+            "Acting as E-Yantra Lab Incharge, Department website Incharge.",
+            "Acted as a department placement coordinator in LBRCE, Mylavaram.",
+            "Acted as a department Exam Cell Incharge in LBRCE, Mylavaram.",
+            "Acted as a mini & main project coordinator in LBRCE, Mylavaram",
+            "Acted as a Department Internship co-ordinatorin LBRCE, Mylavaram.",
+            "Acted as a Department Industrial visits coordinator in LBRCE, Mylavaram",
+            "Acted as a Power Systems Lab Incharge in LBRCE, Mylavaram"
+        ]
+    },
+    {
+        "name": "Ms.D.VENKATA LAKSHMI",
+        "designation": "Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T397_Lakshmi.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T397_DV%20Lakshmi_PROFILE.pdf",
+        "research_areas": [
+            "Embedded systems","VLSI design","MEMS"
+        ],
+        "email": "lakshmi.darla@gmail.com",
+        "phone": "+91 8179973853",
+        "experience": "14+ Years",
+        "education": {
+            "mtech": "Electronics and Communication Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2013.",
+            "btech": "Instrumentation in Control Engineering At Sir Vishnu Engineering College for Women, Bhimavaram (JNTUH) in 2008."
+        },
+        "teaching_subjects": [
+            "Micro Electro Mechanical Systems (MEMS)",
+            "Main Project",
+            "VLSI Design"
+        ],
+        "publications": {
+            "journals": 6,
+            "conferences": 2,
+            "patents": 2
+        },
+        "professional_memberships": [
+            "IAENG",
+            "IETE"
+        ],
+        "achievements_and_awards":[
+            "Best Teacher Award at LBRCE in 2020-21 & 2021-22."
+        ],
+        "roles": [
+            "Acting as Assistant Training and Placement officer. (Since May 2023)"
+        ]
+    },
+    {
+        "name": "Mr. J.V.Pavan Chand",
+        "designation": "Sr. Asst. Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T361_PAVANCHAND.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T361-J.V.Pavan%20Chand%20Profile.pdf",
+        "research_areas": [
+            "Power Electronics & Drives",
+            "Renewable Energy"
+        ],
+        "email": "pavanchand217@gmail.com",
+        "phone": "+91 9848295236",
+        "experience": "16+ Years",
+        "education": {
+            "phd": " At Andhra Univeristy",
+            "mtech": "Power Electronics at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+            "btech": "Electrical & Electronics Engineering at Electrical & Electronics Engineering"
+        },
+        "teaching_subjects": [
+            "Basic Electrical and Electronics Engineering",
+            "Power System-III",
+            "Electrical Machines-1",
+            "Intelligent Control System","Power System Operation and Control"
+        ],
+        "publications": {
+            "journals": 18,
+            "conferences": 3,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IEI","IETE","IEEE"
+        ],
+        "achievements_and_awards":[
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2022",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-april 2022",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2021",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-april 2021",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2020",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-April 2020",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2019",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-April 2019",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2018",
+            "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-June 2018"
+        ],
+        "roles": [
+            "Acting as NPTEl SPOC in LBRCE, Mylavaram",
+            "Acted as Central Discipline Committee Member in LBRCE, Mylavaram.",
+            "Acted as Lab Incharge for Electrical Machines lab and M.tech Simulation Lab in LBRCE, Mylavaram.",
+            "Acting as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram",
+            "Acting as a department budget coordinator in LBRCE, Mylavaram. (from 2020-2023)",
+            "Acted as a mini project coordinator in LBRCE, Mylavaram.",
+            "Served as an Internal Exam branch in charge in LBRCE, Mylavaram."
+        ]
+    },
+    {
+        "name": "Mr.M.BharathChakravarthy",
+        "designation": "Senior Assistant Professor at Lakireddy Balireddy college of Engineering",
+        "department": "Electrical and Computer Engineering",
+        "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/ece/T570_SWAMY.jpg",
+        "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/ece/T570_Y.V.N.R.SWAMY_PROFILE.pdf",
+        "research_areas": [
+            "Power Systems",
+            "Renewable Energy forecasting",
+            "MEMS based Piezoelectric energy Harvesting techniques."
+        ],
+        "email": "mbchakkravaarthy@gmail.com",
+        "phone": "+91 9441886691",
+        "experience": "22+ Years",
+        "education": {
+            "phd": "Electrical Engineering at Annamalai University-Tamilnadu.",
+            "mtech": "Power Systems Engineering at Jawaharlal Nehru Technological UniversityAnanthapur, Ananthapur in 2011",
+            "btech": "Electrical & Electronics Engineering at NBKRIST, Vidyanagar, SV University in 1992"
+        },
+        "teaching_subjects": [
+            "Fundamentals of Electrical Engineering",
+            "Basic Electrical and Electronics Engineering"
+        ],
+        "publications": {
+            "journals": 3,
+            "conferences": 1,
+            "patents": 0
+        },
+        "professional_memberships": [
+            "ISTE",
+            "IETE",
+            "IEI"
+        ],
+        "achievements_and_awards":[
+            "School Topper in SSC exams appeared in 1985"
+        ],
+        "roles": [
+            "Acting asAssistant Controller of Examinations in LBRCE",
+            "Acted as Department website Incharge.",
+            "Acted as a department placement coordinator in LBRCE, Mylavaram.",
+            "Acted as a department Exam Cell Incharge in LBRCE, Mylavaram.",
+            "Acted as a Department Industrial visits coordinator in LBRCE, Mylavaram.",
+            "Acted as a Power Electronics Lab Incharge in LBRCE, Mylavaram",
+            "Acted as a Control Systems Lab Incharge in LBRCE, Mylavaram",
+            "Acted as a EDC Lab Incharge in LBRCE, Mylavaram"
+        ]
+}
+]
+}]
+}

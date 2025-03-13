@@ -1,0 +1,471 @@
+{
+    "departments": [
+        {
+            "name": "Computer Science and Engineering",
+            "hod": "Dr. D. Veeraiah",
+            "courses": [
+                "Artificial Intelligence and Machine Learning",
+                "Data Structures and Algorithms",
+                "Operating Systems",
+                "Cloud Computing"
+            ],
+            "faculty": [
+        {
+            "name": "Mrs. Shaik Salma Asiya Begum",
+            "designation": "Sr. Assistant Professor",
+            "department": "CSE(AI &ML)",
+            "research_areas": [
+                "Machine Learning",
+                "Image Processing",
+                "Deep Learning"
+            ],
+            "email": "shaik.salmaasiya@gmail.com",
+            "phone": "+91 9908227792",
+            "experience": "10+ Years",
+            "education": {
+                "phd": "Pursuing Ph.D.in Computer Science and Systems Engineering in VIT-AP University,Amaravati,Andhra Pradesh Joined in the Academic Year: 2021-24.",
+                "mtech": "M.Tech in Computer Science and Engineering in NCET(KK), Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014.",
+                "btech": "B.Tech in Computer Science and Engineering in  NWCE, Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012."
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": "03",
+                "conferences": "05",
+                "patents": "00"
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG",
+                "ACM"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mr.Rajendra Prasad Banavathu",
+            "designation": "Sr. Assistant Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Machine Learning",
+                "Cyber Security",
+                " and Internet of Things"
+            ],
+            "email": "rajendrapbcsm@gmail.com",
+            "phone": "+91 8328361743",
+            "experience": "8+ Years",
+            "education": {
+                "phd": "Ph. D. in Computer Science and System Engineering (Thesis Submitted) in Andhra University College of Engineering (A), Andhra University, Visakhapatnam, AP.",
+                "mtech": "M.Tech in Computer Science and Engineering in Jawaharlal Nehru Technological University, Kakinada in 2014.",
+                "btech": "B. Tech in Computer Science and Information Technology in Andhra University College of Engineering (A), Andhra University, Visakhapatnam, AP."
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": "04",
+                "conferences": "01",
+                "patents": "01"
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Dr. Somala Jayaprada",
+            "designation": "Professor and Head of THe Department",
+            "department": "CSE(AI &ML)",
+            "research_areas": [
+                "Data Analytics and Machine Learning"
+            ],
+            "email": "drjayaprada@Lbrce.ac.in",
+            "phone": "+91 9346994255",
+            "experience": "20+ Years",
+            "education": {
+                "phd": "Ph. D. in Computer Science and Engineering in  Jawaharlal Nehru Technological University Kakinada, Kakinada in 2018.",
+                "mtech": "M.Tech in Computer Science and Engineering in Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008.",
+                "btech": "B. Tech in Computer Science and Information Technology in Acharya Nagarjuna University, Guntur in 2001."
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": "30",
+                "conferences": "14",
+                "patents": "03"
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG",
+                "ACM"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mr. P Jagadeeswara Rao",
+            "designation": "Sr. Assistant Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Machine Learning",
+                "and Deep Learning"
+            ],
+            "email": "pjr@lbrce.acin",
+            "phone": "+91 8074140462, +91 9505044460",
+            "experience": "11+ Years",
+            "education": {
+                "phd": "Ph.D.(Pursing) in Computer Science and Engineering in Jawaharlal Nehru Technological University Kakinada, Kakinada in 2022.",
+                "mtech": "M.Tech in Computer Science and Engineering in SRM University Kattankuluthur, Chennai in 2013.",
+                "btech": "B. Tech in Computer Science and Information Technology in Prasad V. Potluri Siddhartha Institute of Technology, JNTUK Kakinada in 2010."
+            },
+            "teaching_subjects": [
+                "Operating Systems",
+                "Data Structures"
+            ],
+            "publications": {
+                "journals": "10",
+                "conferences": "05",
+                "patents": "No Patents"
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": [
+                "Acting as Department Placement Coordinator.",
+                "Acting as Department Internship Coordinator.",
+                "Acting as Department Budget Coordinator.",
+                "Acting as Machine Learning Lab Incharge.",
+                "Acting as Class Teacher for 1st Year students (A.Y.: 2023-24) & 1st Year students (A.Y.: 2024-25)."
+            ]
+        },
+        {
+            "name": "Mr. CHIRANJEEVI RAMPILLA",
+            "designation": "Assistant Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Programming Languages",
+                "Database and"
+            ],
+            "email": "chiranjeevirampilla@yahoo.com",
+            "phone": "+91 9030109114",
+            "experience": "1 Year of 11 months of 10 days",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mrs. RAZEENA BEGUM SHAIK",
+            "designation": "Sr. Assistant Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "DATA MINING",
+                "WIRELESS SENSOR NETWORKS",
+                ""
+            ],
+            "email": "razeenabegum@gmail.com",
+            "phone": "+91 9052772256",
+            "experience": "12+ Years",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [
+                "Database Management Systems"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mr. Lalam Narendra",
+            "designation": "Assistant Professor-T942",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Machine Learning",
+                "Artificial Intelligence",
+                ""
+            ],
+            "email": "narendralalam9@gmail.com",
+            "phone": "+91 - 9686907877",
+            "experience": "14+ Years",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [
+                "Artificial Intelligence"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mrs. Anantha Haritha",
+            "designation": "Assistant Professor, T943",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Machine Learning",
+                "Network Security."
+            ],
+            "email": "harithaanantha1994@gmail.com",
+            "phone": "+91 8978215889",
+            "experience": "1+ Years",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mr. SHAIK JAMEER",
+            "designation": "Sr. Assistant Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Internet of Things and Deep Learning"
+            ],
+            "email": "jameer.sk4u@gmail.com",
+            "phone": "+91 9703233201",
+            "experience": "7 Years Teaching + 3 Years (Research Scholar)",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Miss. Pittala Padmini",
+            "designation": "Not Available",
+            "department": "Not Available",
+            "research_areas": "Not Available",
+            "email": "Not Available",
+            "phone": "Not Available",
+            "experience": "Not Available",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mr. Y.Kranthi Kumar",
+            "designation": "Asst. Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Machine Learning",
+                "Artificial Intelligence"
+            ],
+            "email": "kk.rajyam@gmail.com",
+            "phone": "+91 9493376548",
+            "experience": "10+ Years",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [
+                "Artificial Intelligence",
+                "Software Testing Methodologies"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Mrs. K.Rajasree",
+            "designation": "Asst. Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Cloud Computing",
+                "IOT",
+                "Artificial Intelligence"
+            ],
+            "email": "Not Available",
+            "phone": "+91 9492712745",
+            "experience": "3.5 Years",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [
+                "Cloud Computing",
+                "Artificial Intelligence"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Not Available",
+            "designation": "Asst. Professor",
+            "department": "CSE (AI&ML)",
+            "research_areas": [
+                "Machine Learning",
+                "Artificial Intelligence"
+            ],
+            "email": "Not Available",
+            "phone": "+91 7702313583",
+            "experience": "Not Available",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [
+                "Artificial Intelligence"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Not Available",
+            "designation": "Not Available",
+            "department": "Not Available",
+            "research_areas": "Not Available",
+            "email": "Not Available",
+            "phone": "Not Available",
+            "experience": "Not Available",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [
+                "Artificial Intelligence"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE"
+            ],
+            "roles": []
+        },
+        {
+            "name": "Dr. Johnwesily Chappidi",
+            "designation": "Asst.Professor",
+            "department": "CSE",
+            "research_areas": [
+                "Machine Learning",
+                "Deep Learning",
+                ""
+            ],
+            "email": "wesily013@gmail.com",
+            "phone": "+91 7306351317",
+            "experience": "6+ Years",
+            "education": {
+                "phd": "Not Available",
+                "mtech": "Not Available",
+                "btech": "Not Available"
+            },
+            "teaching_subjects": [],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "CSI",
+                "ISTE",
+                "IAENG",
+                "ACM"
+            ],
+            "roles": []
+        }
+    ]
+        }
+    ]
+}

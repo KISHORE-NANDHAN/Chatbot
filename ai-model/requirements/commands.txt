@@ -1,0 +1,2 @@
+!pip install pymongo python-dotenv transformers torch fuzzywuzzy spacy
+!python -m spacy download en_core_web_sm

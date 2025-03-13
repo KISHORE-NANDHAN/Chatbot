@@ -1,0 +1,12 @@
+transformers
+torch 
+os-sys
+re
+pyyaml
+spacy
+pymongo
+fuzzywuzzy
+python-dotenv
+langchain-huggingface
+functools
+python-Levenshtein

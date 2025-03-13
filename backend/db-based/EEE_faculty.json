@@ -1,0 +1,964 @@
+{
+    "department": [
+      {
+        "name": "Electrical and Electronics Engineering",
+        "hod": "Dr. J.Sivavara Prasad",
+        "courses": [
+          "Artificial Intelligence and Machine Learning",
+          "Data Structures and Algorithms",
+          "Operating Systems",
+          "Cloud Computing"
+        ],
+        "faculty": [
+        {
+            "name": "Dr. J.Sivavara Prasad",
+            "designation": "Professor and HOD at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",       
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T546_JSVP_SIVA_VARA_PRASAD.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T546_SIVAVARA%20PRASAD_PROFILE.pdf",
+            "research_areas": [
+                "Power Electronics & Drives",
+                "Renewable Energy","Technologies and Electric Vehicles"
+            ],
+            "email": ["hodeee@lbrce.ac.in","janapatisivavaraprasad@gmail.com"],
+            "phone": "+91 8500230515",
+            "experience": "17+ Years",
+            "education": {
+                "phd": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in April, 2018.",
+                "mtech": "Power & Industrial Drives from Jawaharlal Nehru Technological University Anantapur, Anantapur in 2008.",
+                "btech": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2005"
+            },
+            "teaching_subjects": ["Power Electronics","Basic Microprocessors & Microcontrollers","Microprocessors & Microcontrollers","Electrical Machines-I"],
+            "publications": {
+                "journals": 20,
+                "conferences": 8,
+                "patents": 2
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG","IEI","IETE","IEEE"
+            ],
+    "achievements_and_awards": ["Recipient of National Merit Scholarship for the performance in SSC exams appeared in 1999.","College topper for the performance in B.Tech course studied during 2001-2005.","University topper for the performance in M..Tech course studied during 2006-2008.","Received the best faculty award from Vignan’s Institute of Technology & Science,Hyderabad in the occasion of teacher’s day.","Best Teacher Award at LBRCE in 2020 & 2021"],
+            "roles": [
+                "Acting as HOD, Department of EEE (Since September 2020)","Acted as department PG Program coordinator in LBRCE, Mylavaram. (from 2015-2019)","Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram (from 2016-2019)","Member in BoS, DAC, & PAC (Since 2014)","Acted as a department budget coordinator in LBRCE, Mylavaram. (from 2016-2019)","Acted as a mini & main project coordinator in LBRCE, Mylavaram. (from 2014-2017)","Served as an Exam branch in charge from September 2008 to May 2010 in Vignan’s Institute of Technology & Aeronautical Engineering, Hyd."
+            ]
+        },
+        {
+            "name": "Dr. K.Ramalingeswara Prasad",
+            "designation": "Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T316_KRL_PRASAD.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T316%20RLP%20Profile%2022021-22.pdf",
+            "research_areas": "Not Available",
+            "email": "krlp050581@gmail.com",
+            "phone": " 9010117116",
+            "experience": "17 Years",
+            "education": {
+                 "phd": "Electrical & Electronics Engineering from Acharya Nagarjuna University, Guntur in 2017.",
+    "mtech": "Electrical & Electronics Engineering from College of Engineering Pune, Pune in 2005.",
+    "btech": "Electrical & Electronics Engineering from SVH College of Engineering, Acharya Nagarjuna University in 2002."
+            },
+            "teaching_subjects": [
+                "Electrical Circuits","Control Systems","Electro Magnetic Fields","Linear System Analysis","Power Electronics","Digital Signal Processing","HVDC & Power Converters."
+            ],
+            "publications": {
+                "journals": 22,
+                "conferences": 8,
+                "patents": 3
+            },
+            "professional_memberships": [
+                "ISTE","IETE","IEI"
+            ],
+            "achievements_and_awards": ["Ratifies as Professor by JNTUK, Kakinada in 2022","Delivered an Expert Talk on “NAAC revised accreditation frame work” at LBRCE college,Mylavaram","Delivered an Expert Talk on “NAAC revised accreditation frame work” at Raghu Engineering college, Vizag.","Delivered an Expert Talk on “NAAC revised accreditation frame work” at Priyadarshini College engineering college, Nellore.","Delivered an Expert Talk on “NAAC revised accreditation frame work” at Govt. Degree college, Mylavaram","Delivered an Expert Talk on “NAAC revised accreditation frame work and OBE” at DIET,Vishakhapatnam","NAAC Advisor Member for different engineering colleges at Andhra Pradesh.","Best Teacher Award at LBRCE in Sep 2022,2018,2019 & 2017","Elite (Top 5%) from NPTEL online certification course (8 Weeks) on 'Control Engineering' conducted by IIT Madras in the year 2018.","Certificate from NPTEL (SPOC-College was rated as ‘AA’) in the A.Y:2018-19","Certificate from NPTEL(Elite for the course Outcome Based Pedagogic Principles for Effective Teaching)","Got 94.9 percentile in GATE-2003","One of research paper was selected as Best Paper in International Conference on Systamics Cybernetics and Informatics (ICSCI-2008)."],
+            "roles": ["Prof.In-Charge, Information Center","NAAC Central Coordinator since 2014","NIRF Coordinator","NBA Criterion-III & VII central coordinator","SPOC - AICTE and AISCHE","Department NBA Coordinator (2008, 2014, 2019 and 2022)","Member, IQAC","Member, Governing Body","Member, Academic Council","Indo Euro Sync-ARC trained faculty","Member in BoS, DAC, & PAC (Since 2014)","Module Coordinator","NPTEL – SPOC (2016-17 & 2017-18)","Control Systems Lab In-charge","B.Tech Major project Coordinator"]
+        },
+        {
+            "name": "Dr. M.UmaVani",
+            "designation": "Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T178_UMA_VANI_MARREDDY.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T178_Dr%20M%20UmaVani_Profile_EEE%20Dept.pdf",
+            "research_areas": [
+                "Power Quality studies",
+                "Artificial Intelligence","Signal Processing","ML applications to Electric Vehicles","Micro-Grid","Smart Grid","DG Technologies"
+            ],
+            "email": "umamarreddy@lbrce.ac.in",
+            "phone": "+91 9542986377",
+            "experience": "24 Years",
+            "education": {
+                "phd": "Electrical Engineering, JNTU Hyderabad, India, January 2012",
+                "mtech": "Power Systems Engineering, REC-Warangal, Kakatiya University, India, 2002.",
+                "btech": "Electrical & Electronics Engineering, V R Siddhartha Engineering College,Vijayawada, affiliated to ANUCET Guntur, India, 1993."
+            },
+            "teaching_subjects": [
+                "Digital Electronics","Universal Human Values-II","Digital Logic Circuit Design","Power System Analysis"
+            ],
+            "publications": {
+                "journals": 24,
+                "conferences": 11,
+                "patents": 1
+            },
+            "professional_memberships": [
+                "ISTE","ISVE","IE","IETE","IEEE"
+            ],
+"achievements_and_awards": "Not Available",
+            "roles": [ "HoD, EEED at LBRCE, Mylavaram for 12 years",
+        "Member, PG admissions & R&D committee at LBRCE (2014-19)",
+        "Member of Academic Council at LBRCE (2014-19)",
+        "Chairman, BOS B.Tech & M.Tech Programs at LBRCE (2014-19) (R14, R17)",
+        "Member, BOS B.Tech & M.Tech Programs at LBRCE (2010) (R10 & R11)",
+        "Chairperson, Committee for Protection Against Sexual Harassment of Girl Students and Women at LBRCE (2003-2012)",
+        "Member, Anti-Ragging Committee at LBRCE (2002-19)",
+        "Convener, Saheli-Girls Club at LBRCE (2016-19)",
+        "IEEE Student Branch Counsellor at LBRCE (2016-19)",
+        "Warden, Girls Hostel at LBRCE (1999-2001)",
+        "Professor & HoD, EEED at K L U, Vaddeswaram (2012-14)",
+        "Chairman, BOS B.Tech & M.Tech Programs at K L U, Vaddeswaram (2013) (R13)",
+        "Member of Academic Council at K L U, Vaddeswaram (2012-14)",
+        "Head, Power Systems Research Group at K L U, Vaddeswaram (2012-14)",
+        "Member, M.Tech Projects Review Committee at K L U, Vaddeswaram (2012-14)",
+        "UG/PG Coordinator at K L U, Vaddeswaram (2012-13)",
+        "Chairperson, Committee for Protection Against Sexual Harassment of Girl Students and Women at K L U, Vaddeswaram (2013-14)",
+        "Prof. In-Charge, Information Center at LBRCE",
+        "NAAC Central Coordinator at LBRCE (Since 2014)",
+        "NIRF Coordinator at LBRCE",
+        "NBA Criterion-III & VII Central Coordinator at LBRCE",
+        "SPOC - AICTE and AISCHE at LBRCE",
+        "Department NBA Coordinator at LBRCE (2008, 2014, 2019, 2022)",
+        "Member, IQAC at LBRCE",
+        "Member, Governing Body at LBRCE",
+        "Member, Academic Council at LBRCE",
+        "Indo Euro Sync-ARC Trained Faculty at LBRCE",
+        "Member in BoS, DAC, & PAC at LBRCE (Since 2014)",
+        "Module Coordinator at LBRCE",
+        "NPTEL – SPOC at LBRCE (2016-17 & 2017-18)",
+        "Control Systems Lab In-Charge at LBRCE",
+        "B.Tech Major Project Coordinator at LBRCE"]
+        },
+        {
+            "name": "Dr.K.Harinadha Reddy",
+            "designation": "Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T119_HARINADHA_REDDY.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T119-Dr.K.%20HARINADHA%20REDDY.pdf",
+            "research_areas": [
+        "Power Electronics",
+        "Renewable Energy",
+        "Electric Drives"
+    ],
+            "email": "kadapa.hari@gmail.com",
+            "phone": "+91 9885078932",
+            "experience": "18+ Years",
+            "education": {
+               "phd": "Electrical & Electronics Engineering from Karnataka",
+        "mtech": "Electrical Poweer System-HV from Jawaharlal Nehru Technological University,Kakinada.",
+        "btech": "Electrical Power Systems from Andhra University"
+            },
+            "teaching_subjects": ["Power Electronics",
+        "Electrical Machines",
+        "Control Systems",
+        "Microprocessors & Microcontrollers"],
+            "publications": {
+                "journals": 10,
+                "conferences": 0,
+                "patents": 2
+            },
+            "professional_memberships": ["IEEE","IETE","IE"],
+"achievements_and_awards": "Best Researcher Award from JNTUA.",
+            "roles": ["Served as HOD, Department of EEE.",
+        "Acted as NBA and NAAC Coordinator.",
+        "Member in BoS & PAC."]
+        },
+        {
+            "name": "Dr. P.Sobha Rani",
+            "designation": "Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T690_SOBHA_RANI.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T690_Sobha%20Rani_PROFILE.pdf",
+            "research_areas": [
+                "Power Quality",
+                "Micro grid",
+                "optimization techniques","Distributed generation","Electrical distribution systems"
+            ],
+            "email": "sobhareveru@gmail.com",
+            "phone": "+91 9959108386",
+            "experience": "25+ Years",
+            "education": {
+                "phd": "Electrical and Electronics Engineering from Sri Venkateswara university college of Engineering, Tirupati in 2016.",
+                "mtech": "Power systems from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2006.",
+                "MS":"Electronics Engineering from BITS Pilani, in 2000",
+                "btech": "Electrical and Electronics Engineering from Sri Venkateswara university college of Engineering, Tirupati in 1991."
+            },
+            "teaching_subjects": ["Power system operation &control","Power system-III","Power System Protection","Power System Analysis","Universal Human Values-II","Measurements & Instrumentation"],
+            "publications": {
+                "journals": 22,
+                "conferences": 6,
+                "patents": 1
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG"
+            ],
+"achievements_and_awards":["Best Research Paper award in ICEESC-2021","Best Teacher Award at LBRCE in 2020-21, 2021-22"],
+            "roles": ["Member in BoS, DAC (Since 2015)","Acting as Presiding officer, Internal complaints committee in LBRCE, Mylavaram","Acted as department budget coordinator in LBRCE, Mylavaram (from 2017-19)","Served as HOD, Dept. EEE in N.B.K.R.I.S.T, Vidyanagar (from2006-2010)","Served as BoS coordinator for UG program in N.B.K.R.I.S.T, Vidyanagar (from2006-2015)"
+            ]
+        },
+        {
+            "name": "Dr.M.S.Giridhar",
+            "designation": "Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T193_GIRIDHAR.bmp",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T193-Dr.%20M.S.GIRIDHAR%20Profile%20-EEED.pdf",
+            "research_areas": [
+                "Optimization Techniques applied to Renewable Energy sources and Electrical Power Distribution Systems."
+            ],
+            "email": ["munigoti7@lbrce.ac.in","munigoti7@gmail.com"],
+            "phone": "+91 9492071771",
+            "experience": "21+ Years",
+            "education": {
+                "phd": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in February, 2017",
+                "mtech": "Energetics (Power Systems) from Regional Engineering College (REC), Calicut, Calicut University, in 2002",
+                "btech": "Electrical & Electronics Engineering from K.S.R.M.College of Engineering, under S.V.University in 1999."
+            },
+            "teaching_subjects": ["Power System Protection","Universal Human Values","Electrical Safety","Power System Analysis","Optimization Techniques forElectrical Engineering Electrical","Reliability Engineering"],
+            "publications": {
+                "journals": 10,
+                "conferences": 6,
+                "patents": 1
+            },
+            "professional_memberships": ["ISTE","IEI","IEEE"],
+"achievements_and_awards":["Best Paper Award – National System Society Conference-2004, VIT, Vellore.","Best Paper Award – National Conference on Recent Advances in ElectricalEngineering-2016, AITS, Rajampet.","Best Project-work (Student-Guide) Award at LBRCE in 2020-2021"],
+            "roles": ["Acting as HOD, Department of EEE, LBRCE (Dec-2019 to Nov-2020)","Acted as department PG Program coordinator in SITAMS, Chittoor. (from 2009-2017)","Acted as a department NBA and NAAC in SITAMS, Chittoor (from 2005-2017)","Member in BoS, DAC, & PAC (Since 2017 at LBRCE)","Acted as a mini & main project coordinator at SITAMS, Chittoor. (from 2005-2017)","Acted as HOD, Department of EEE, MITS, Madanapalle (Sept-2004 to March-2005)"]
+        },
+        {
+            "name": "Dr. G.Nageswara Rao",
+            "designation": "Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T204_GUDIPUDI_NAGESWARA.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T204_Dr.%20G%20NRPROFILE.pdf",
+            "research_areas": [
+                "AI Techniques",
+                "Power Systems"
+            ],
+            "email": ["gnrgudipudi@Lbrce.ac.in","gnrgudipudi@gmail.com"],
+            "phone": "+91 9247876900",
+            "experience": "21 Years",
+            "education": {
+                "phd": "Electrical and Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2017.",
+                "mtech": "Power Systems from Acharya Nagarjuna university, Guntur in 2006.",
+                "btech": "AMIE in Electrical Engineering from the Institution of Engineers (I), Kolkata in 2000."
+            },
+            "teaching_subjects": ["Power Systems-1","Energy Conservation & Audit","Fundamentals of Electrical Engineering","Power System Analysis","Electrical Measurements"],
+            "publications": {
+                "journals": 42,
+                "conferences": 11,
+                "patents": 6
+            },
+            "professional_memberships": [
+                "ASMIE","MISTE","IACSIT","IAENG"
+            ],
+"achievements_and_awards":["Award of Excellence in Research in Global Eminent Researcher Award– 2022","Best Teacher Award at LBRCE in 2021 "],
+            "roles": ["Acting as Department R & D Coordinator (Since November 2022)","Acting as Central GRIEVANCES REDRESSAL COMMITTEE Coordinator (Since March 2022)","Department NBA Criteria 9 Coordinator (from January 2014 to November 2021)","Coordinator for Department Audit (Since December 2021)"]
+        },
+        {
+            "name": "Dr. A.V.G.A.Marthanda",
+            "designation": "Associate Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T719_MARTHANDA.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T719%20Dr.A.V.G.A.MARTHANDA.pdf",
+            "research_areas": [
+                "Renewablepower power sources",
+                "control of Electrical drives","ENERGY","FUELSPOWERELECTRONICS"
+            ],
+            "email": ["avgam989@gmail.com","myenergysai4u@gmail.com"],
+            "phone": "+919441660989,",
+            "experience": "17 Years ( Academic)",
+            "education": {
+                "phd": "Electrical and Electronics Engineering from SRI VENKATESWARA UNIVERSITY,TIRUPATI in 2019.",
+                "mtech": "Energy Management ( inter-discipline courses) from SRI VENKATESWARA UNIVERSITY,TIRUPATI in 2003.",
+                "btech": "Electrical and Electronics Engineering from Andhra University Visakhapatnam,(GITAM) in 1993"
+            },
+            "teaching_subjects": ["Energy conservation& Management(ECM)","Constitutionof India","Renewable Energy Technologies"],
+            "publications": {
+                "journals": 14,
+                "conferences": 10,
+                "patents": 6
+            },
+            "professional_memberships": [
+                "ISTE"
+            ],
+            "achievements_and_awards":["Acting As S.D.C Department Cordinator","Acting As IIEC Department Cordinator","Acting As Lab In Charge (Mpmc )"],
+            "roles": ["Acting As Dept. Academic Auditor","Acting As Dept. Discipline In Charge","Acting As Student mentor ( 22 batch 20 students)"]
+        },
+        {
+            "name": "Dr. B.Pangedaiah",
+            "designation": "Sr. Asst. Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Not Available",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T363_PANGEDAIAH.JPG",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T363_PANGEDAIAH_PROFILE.pdf",
+            "research_areas": [
+                "Signal Processing",
+                "Power system protection",
+                "Renewable Energy Technologies."
+            ],
+            "email": "pangedaiah@gmail.com",
+            "phone": "+91 9490988779",
+            "experience": "16+ Years",
+            "education": {
+                "phd": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in August, 2022.",
+                "mtech": "Power & Industrial Drives from Jawaharlal Nehru Technological University Kakinada, Kakinada in July, 2011",
+                "btech": " Electrical & Electronics Engineering from Andhra University in April 2006."
+            },
+            "teaching_subjects": ["JAVA Programming(SOC)","Linear and Digital IC Applications","C-Programming","Advanced Digital Signal Processing"],
+            "publications": {
+                "journals": 14,
+                "conferences": 2,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG","IEI","IETE","IEEE"
+            ],
+"achievements_and_awards": ["Best Ph.D. Thesis in JNTUK, Kakinada (A.Y 2022-23).","Best Teacher Award at LBRCE in 2018."],
+            "roles": ["Member in PAC.","Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram"]
+        },
+        {
+            "name": "Mr.P.Deepak Reddy",
+            "designation": "AssociateProfessor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T261_DEEPAK.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T261_Deepak%20Reddy_PROFILE.pdf",
+            "research_areas": [
+                "Power Electronics & Drives"
+            ],
+            "email": ["deepakreddy@lbrce.ac.in","pdeepakr@gmail.com"],
+            "phone": "+91 9866169303",
+            "experience": "17+ Years",
+            "education": {
+                "mtech": "Power Electronics from Vellore Institute of Technology, Vellore in 2005.",
+                "btech": "Electrical & Electronics Engineering from Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2002"
+            },
+            "teaching_subjects": ["Solid State Drives","Electronics Circuits and Devices","Network Theory-II","Analog and Digital Signal Processing"],
+            "publications": {
+                "journals": 10,
+                "conferences": 1,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG","IEI","IETE","IEEE"
+            ],
+"achievements_and_awards": "Not Available",
+            "roles": ["Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram","Member in DAC","Served as an Exam branch in charge from 2008 to 2009 in LBRCE, Mylavaram","Asst. Controller of Examinations (Autonomous) (2012-13)","Department Alumni Coordinator (2014-15 & 2015-16)","Member in BoS (2016-17)","PG coordinator (2017-18)","Module Coordinator","IEEE SB coordinator","Central Audit coordinator","Power Electronics Lab In-charge","Central Anti Ragging Committee member","CRC coordinator","Alumni coordinator"]
+        },
+        {
+            "name": "Mr. R.Anjaneyulu Naik",
+            "designation": "Associate Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T407_Anji_Naik.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T407_RANAIK_PROFILE.pdf",
+            "research_areas": [
+                "MEMS and Smart Sensors"
+            ],
+            "email": "anjuiitmadras@gmail.com",
+            "phone": "+91 9885082543",
+            "experience": "19+ Years",
+            "education": {
+                "mtech": "Electrical Engineering from IIT MADRAS in 2003.",
+                "btech": "Electronics & Instrumentation Engineering from Kakatiya University Warangal in 2000."
+            },
+            "teaching_subjects": ["Electronic Circuit and Devices","Analog Electronics","Instrumentation Technology","Control Systems","Industrial Instrumentation"],
+            "publications": {
+                "journals": 3,
+                "conferences": 2,
+                "patents": 2
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG","IETE","IEEE"
+            ],
+"achievements_and_awards": "Best Teacher Award at LBRCE in 2014",
+            "roles": ["Acted as HOD, Department of EIE","Acted as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram (from 2010-2020)","Member in BoS, DAC, & PAC 2010-2020"]
+        },
+        {
+            "name": "Dr. Y.Raghuvamsi",
+            "designation": "Sr. Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "EEE",
+            "image_url":"https://lbrce.ac.in/faculty/assets/images/profiles/eee/T794_YARLAGADDA_RAGHUVAMSI.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T794_YARLAGADDA_RAGHUVAMSI.pdf",
+            "research_areas": [
+                "Distribution Systems",
+                "Deep Learning",
+                "Renewable Energy Sources "
+            ],
+            "email": ["vamsi777raghu@gmail.com","yvraghu.34@gmail.com"],
+            "phone": " 8074701733",
+            "experience": "5+ Years",
+            "education": {
+                "phd": "Electrical Engineering from National Institute of Technology Andhra Pradesh, Tadepalligudem in 2024.",
+                "mtech": "Power Systems Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2015",
+                "btech": " Electrical and Electronics Engineering from Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012."
+            },
+            "teaching_subjects": ["Basic Electrical & Electronics Engineering","Electrical Engineering Materials","Analog and Digital Signal Processing","Linear and Digital IC Applications","Intelligent Control Systems","Digital Electronic Circuits"],
+            "publications": {
+                "journals": 9,
+                "conferences": 7,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE"
+            ],
+"achievements_and_awards": ["Got Elite certificate with Top 1% score from NPTEL online certification course (12 Weeks)on 'Digital Circuits' conducted by IIT Kharagpur in the year 2018.","Secured 1st position in M.Tech (Power Systems Engineering) course by scoring an overall CGPA of 9.60 out of 10.","Received meritorious scholarship from MHRD in M. Tech and Ph. D"],
+            "roles": ["Acted as a main project coordinator in EEE department, LBRCE, Mylavaram.","Acting as Get-C Lab Incharge and Internship coordinator."]
+        },
+        {
+            "name": "T.HIMABINDU",
+            "designation": "Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T910_Bindu.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T910-T.HIMABINDU%20PROFILE.pdf",
+            "research_areas": "Not Available",
+            "email": "talluribindu261@gmail.com",
+            "phone": "+91 9611406547",
+            "experience": "2+ Years",
+            "education": {
+                "mtech": "Power and Industrial Drives at Aditya College Of Engineering Kakinada In 2015",
+                "btech": "Electrical and Electronics Engineering at Vasireddy Venkatadri Institute Of Technology In 2008"
+            },
+            "teaching_subjects": [
+                "Constitution of INDIA",
+                "Basic electrical &electronics engineering",
+                "Electrical Measurements",
+                "DC Machines and Transformer"
+            ],
+            "publications": {
+                "journals": 0,
+                "conferences": 0,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "IAENG"
+            ],
+            "achievements_and_awards":[
+                "VI Semester topper for the performance in B.Tech course in 2011",
+                "School topper in ssc in 2006"
+            ],
+            "roles": [
+                "Not Available"
+            ]
+        },
+        {
+            "name": "Mr. RATHNAKAR KUMAR P",
+            "designation": "Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T770_RATNAKAR.jpeg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T770_RATHNAKAR%20KUMAR%20P.pdf",
+            "research_areas": [
+                "Power Systems",
+                "Renewable Energy Systems",
+                "Electric Vehicles"
+            ],
+            "email": "rathna228@gmail.com",
+            "phone": "+91 9703878093",
+            "experience": "10+ Years",
+            "education": {
+                "phd": "Pursuing Electrical & Electronics Engineering at Jawaharlal Nehru Technological University, Kakinada.",
+                "mtech": "Electrical Power Systems (2013-2015) at Jawaharlal Nehru Technological University, Hyderabad.",
+                "btech": "Electrical & Electronics Engineering (2006-2010) at Jawaharlal Nehru Technological University, Kakinada."
+            },
+            "teaching_subjects": [
+                "High Voltage Engineering",
+                "Electric Vehicles",
+                "Electrical Reliability Engineering",
+                "Energy Conservation & Audit",
+                "Basic Electrical & Electronics Engineering"
+            ],
+            "publications": {
+                "journals": 6,
+                "conferences": 3,
+                "patents": 1
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IEEE"
+            ],
+            "achievements_and_awards":[
+                "Got certified with Elite+Silver from NPTEL online certification course (8 Weeks) on ACCREDITATION AND OUTCOME BASED LEARNING conducted by IIT KHARAGPUR in Aug-Oct 2019."
+            ],
+            "roles": [
+                "Acting now as dept Placement coordinator (Since 2019)","department budget coordinator",
+                "Acted as dept Games, Sports, Yoga coordinator",
+                "Acted as dept SDC coordinator",
+                "Acted as dept NPTEL coordinator",
+                "Acted as dept NSS coordinator"
+            ]
+        },
+        {
+            "name": "Mrs.ROWTHU PADMA",
+            "designation": "Sr.Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T757_PADMA.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T757_PADMA.pdf",
+            "research_areas": [
+                "Power Electronics & Drives",
+                "Renewable Energy Sources",
+                "AI Techniques",
+                "Electric Vehicles"
+            ],
+            "email": "padmarowthu88@gmail.com",
+            "phone": "+91 8465806389",
+            "experience": "10+ Years",
+            "education": {
+                "phd": "Pursuing in Electrical & Electronics Engineering at Jawaharlal Nehru Technological University, Kakinada.",
+                "mtech": "Power Electronics & Drives (2014-2016) at Jawaharlal Nehru Technological University, Kakinada.",
+                "btech": "Electrical & Electronics Engineering (2008-2012) at Jawaharlal Nehru Technological University, Kakinada."
+            },
+            "teaching_subjects": [
+                "Utilization of Electrical Energy",
+                "Programming for Problem solving using C",
+                "Basic Electrical & Electronics Engineering",
+                "Analog and Digital Signal Processing",
+                "High Voltage Engineering"
+            ],
+            "publications": {
+                "journals": 8,
+                "conferences": 3,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IEEE"
+            ],
+            "achievements_and_awards":[
+                "Got certified with Elite+Silver from NPTEL on line certification course(8Weeks)on ACCREDITATION AND OUTCOME BASED LEARNING conducted by IIT KHARAGPUR in Aug-Oct2019"
+            ],
+            "roles": [
+                "Acting as dept Project coordinator (Since 2022)",
+                "Acting as Budget coordinator (Since 2021)",
+                "Acted as Central NCC coordinator",
+                "Acted as dept NCC coordinator",
+                "Acted as dept Alumni coordinator",
+                "Acted as dept M.Tech Project coordinator"
+            ]
+        },
+        {
+            "name": "Mrs. G.TABITA",
+            "designation": "Sr. AssistantProfessor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T730_TABITA_GANDHAM.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T730_TABITA%20GANDHAM_EEE_PROFILE.pdf",
+            "research_areas": [
+                "Distribution Generation",
+                "Power Quality","Power Electronic Converters"
+            ],
+            "email": "gandham820@gmail.com",
+            "phone": "+91 7993251820",
+            "experience": "16+ Years",
+            "education": {
+                "phd": "Pursuing in Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Anantapur, Anantapursince 2020",
+                "mtech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2014.",
+                "btech": "Electrical & Electronics Engineering at  Acharaya Nagarjuna University, Guntur in 2005"
+            },
+            "teaching_subjects": [
+                "Advance Control Systems",
+                "Solid State Drives",
+                "Energy Conservation and Audit",
+                "Control Systems",
+                "Machine Modelling Analysis",
+                "Basic Electrical Engineering"
+            ],
+            "publications": {
+                "journals": 12,
+                "conferences": 1,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "ISRD",
+                "IEEE"
+            ],
+            "achievements_and_awards":[
+                "Not Available"
+            ],
+            "roles": [
+                "Worked as Project Coordinator in LBRCE.",
+                "Worked as Department Library in-charge atLBRCE.",
+                "Working as Central Saheli mentor & Department Coordinator in LBRCE.",
+                "Working as Department Alumni in-charge at LBRCE.",
+                " Working as Department NCC Coordinator at LBRCE"
+                
+            ]
+        },
+        {
+            "name": "Mr. Imran Abdul",
+            "designation": "Sr. AssistantProfessor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T707_IMRAN.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T707_IMRAN%20ABDUL_EEE_PROFILE.pdf",
+            "research_areas": [
+                "Power systems","Renewable Energy Technologies"
+            ],
+            "email": "abdulimran201@gmail.com",
+            "phone": "+91 9014246684",
+            "experience": "8+ Years",
+            "education": {
+                "phd": "Electrical & Electronics Engineering at Andhra University, Visakhapatnamsince 2021.",
+                "me": "Electrical and Electronics Engineering at Andhra University, Visakhapatnam in Feb 2015",
+                "btech": "Electrical & Electronics Engineering at Acharya Nagarjuna University in 2009"
+            },
+            "teaching_subjects": [
+                "Utilization of Electrical Engineering",
+                "Classical and Meta Heuristic Optimization Techniques",
+                "Power Systems-I",
+                "Power System protection",
+                "Basic Electrical & Electronics Engineering"
+            ],
+            "publications": {
+                "journals": 5,
+                "conferences": 1,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "AMIE"
+            ],
+            "achievements_and_awards":[
+                "Not Available"
+            ],
+            "roles": [
+                "Worked Department Placement Coordinator at LBRCE",
+                "Worked as Information cell Coordinator/website in charge at LBRCE.",
+                "Worked as Dept Budget Coordinator at LBRCE"
+            ]
+        },
+        {
+            "name": "Mrs.K.S.L.Lavanya",
+            "designation": "Sr.Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T705_LAVANYA.JPG",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T705_K.S.L.LAVANYA%20PROFILE.pdf",
+            "research_areas": "Not Available",
+            "email": "ksllavanya4@gmail.com",
+            "phone": "+91 9703494046",
+            "experience": "10+ Years",
+          "education": {
+            "phd": "Registered in 2020, EEE, Andhra University, AU, Vizag",
+            "mtech": "2014, PSAC, PVPSIT, JNTUK",
+            "btech": "2010, EEE, LBRCE, JNTUK"
+            },
+
+            "teaching_subjects": [
+                "Power Systems-1",
+                "Utilization of Electrical Energy",
+                "Renewable Energy sources",
+                "High Voltage DC Transmission"
+            ],
+            "publications": {
+                "journals": 7,
+                "conferences": 3,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IEI",
+                "IAENG"
+            ],
+            "achievements_and_awards":[
+                "Not Available"
+            ],
+            "roles": [
+                "Acting as aDepartment NPTEL coordinator in LBRCE, Mylavaram.",
+                "Acting as a Department Alumni Cordinator",
+                "Acted as a department Faculty Events coordinator in LBRCE, Mylavaram. (from 2019-2022)",
+                "Acted as a Department Exam cell incharge in LBRCE,Mylavaram from 2015-2019"
+            ]
+        },
+        {
+            "name": "Mr. K.NAGALINGA CHARY",
+            "designation": "Sr. AssistantProfessor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T677_NAGALINGACHARY.png",
+            "pdf_url": "http://lbrce.ac.in/faculty/profiles/eee/T677_NAGALINGA%20CHARY_EEE_PROFILE.pdf",
+            "research_areas": [
+                "Power Electronics","Renewable Energy Systems"
+            ],
+            "email": "sivanagalingachary@gmail.com",
+            "phone": "+91 9177609202",
+            "experience": "16+ Years",
+            "education": {
+                "phd": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada since 2019.",
+                "mtech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2013.",
+                "btech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008."
+            },
+            "teaching_subjects": [
+                "Electrical Machines-II",
+                "Electrical Machines-I",
+                "Control Systems"
+            ],
+            "publications": {
+                "journals": 14,
+                "conferences": 1,
+                "patents": 1
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG",
+                "IEEE",
+                "AMIE"
+            ],
+            "achievements_and_awards":[
+                "Not Available"
+            ],
+            "roles": [
+                "Worked as Incharge HOD at Newton’s Institute of Engineering College.",
+                "Worked as Time Table in-charge atLBRCE.",
+                "Worked as Criteria-9 Coordinator for NBA at LBRCE",
+                "Working as Central Discipline in-charge at LBRCE.",
+                "Working as IEEE student Branch in-charge at LBRCE.",
+                "Working as Class Review Committee in-charge at LBRCE."
+            ]
+        },
+        {
+            "name": "Mr. A.V.RAVIKUMAR",
+            "designation": "Sr. Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T673_RAVI_KUMAR.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T673_RAVIKUMAR_EEE_PROFILE.pdf",
+            "research_areas": [
+                "Power systems and Power Electronics"
+            ],
+            "email": ["ravi0258@gmail.com","rv_ande@yahoo.co.in"],
+            "phone": "+91 9291496400",
+            "experience": "16+ Years",
+            "education": {
+                "phd": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada since 2021",
+                "mtech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2011",
+                "btech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2006."
+            },
+            "teaching_subjects": [
+                "Power Systems-II",
+                "Control Systems",
+                "Measurements and Instrumentation",
+                "Basic Electrical & Electronics Engineering",
+                "Network Theory-II",
+                "Electrical Power Transmission"
+            ],
+            "publications": {
+                "journals": 16,
+                "conferences": 1,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IEEE",
+                "AMIE",
+                "ISRD",
+                "IAENG"
+            ],
+            "achievements_and_awards":[
+                "Not Available"
+            ],
+            "roles": [
+                "Worked as Head of the Department at Eswar college of Engineering.",
+                "Worked as Exam section coordinator in VYCET.",
+                "Worked as Department Exam section in-charge at LBRCE.",
+                "Worked as Criteria-5 Coordinator for NAAC at LBRCE",
+                "Worked as Department Placement Coordinator at LBRCE."
+            ]
+        },
+        {
+            "name": "Mr.P.Srihari",
+            "designation": "Senior Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T582_SRIHARI.JPG",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T582_SRIHARI_PROFILE.pdf",
+            "research_areas": [
+                "Power Systems",
+                "Renewable Energy forecasting techniques",
+                "AI applications to Power Systems",
+                "Deep Learning."
+            ],
+            "email": ["parrisrihari@gmail.com", "hari9229@gmail.com"],
+            "phone": "+91 8008608684",
+            "experience": "13+ Years",
+            "education": {
+                "phd": "Electrical Engineering at National Institute of Technology -Andhra Pradesh.",
+                "mtech": "Power Systems Engineering at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+                "btech": "Electrical & Electronics Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2008"
+            },
+            "teaching_subjects": [
+                "Basic Electrical and Electronics Engineering",
+                "Fundamentals of Electrical Engineering",
+                "Power Systems-I",
+                "Power System Operation and Control",
+                "FACTS Controllers"
+            ],
+            "publications": {
+                "journals": 10,
+                "conferences": 3,
+                "patents": 2
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IAENG",
+                "IEI",
+                "IEEE",
+                "IETE"
+            ],
+            "achievements_and_awards":[
+                "School Topper in SSC exams appeared in 2002.",
+                "Won first prize in District Level Quiz and Essay Writing Competitions.",
+                "Best Teacher Award at LBRCE in 2013,2014,2015,2016,2017,2018,2019,2020 & 2021."
+            ],
+            "roles": [
+                "Acting as E-Yantra Lab Incharge, Department website Incharge.",
+                "Acted as a department placement coordinator in LBRCE, Mylavaram.",
+                "Acted as a department Exam Cell Incharge in LBRCE, Mylavaram.",
+                "Acted as a mini & main project coordinator in LBRCE, Mylavaram",
+                "Acted as a Department Internship co-ordinatorin LBRCE, Mylavaram.",
+                "Acted as a Department Industrial visits coordinator in LBRCE, Mylavaram",
+                "Acted as a Power Systems Lab Incharge in LBRCE, Mylavaram"
+            ]
+        },
+        {
+            "name": "Ms.D.VENKATA LAKSHMI",
+            "designation": "Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T397_Lakshmi.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T397_DV%20Lakshmi_PROFILE.pdf",
+            "research_areas": [
+                "Embedded systems","VLSI design","MEMS"
+            ],
+            "email": "lakshmi.darla@gmail.com",
+            "phone": "+91 8179973853",
+            "experience": "14+ Years",
+            "education": {
+                "mtech": "Electronics and Communication Engineering at Jawaharlal Nehru Technological University Hyderabad, Hyderabad in 2013.",
+                "btech": "Instrumentation in Control Engineering At Sir Vishnu Engineering College for Women, Bhimavaram (JNTUH) in 2008."
+            },
+            "teaching_subjects": [
+                "Micro Electro Mechanical Systems (MEMS)",
+                "Main Project",
+                "VLSI Design"
+            ],
+            "publications": {
+                "journals": 6,
+                "conferences": 2,
+                "patents": 2
+            },
+            "professional_memberships": [
+                "IAENG",
+                "IETE"
+            ],
+            "achievements_and_awards":[
+                "Best Teacher Award at LBRCE in 2020-21 & 2021-22."
+            ],
+            "roles": [
+                "Acting as Assistant Training and Placement officer. (Since May 2023)"
+            ]
+        },
+        {
+            "name": "Mr. J.V.Pavan Chand",
+            "designation": "Sr. Asst. Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://www.lbrce.ac.in/faculty/assets/images/profiles/eee/T361_PAVANCHAND.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/eee/T361-J.V.Pavan%20Chand%20Profile.pdf",
+            "research_areas": [
+                "Power Electronics & Drives",
+                "Renewable Energy"
+            ],
+            "email": "pavanchand217@gmail.com",
+            "phone": "+91 9848295236",
+            "experience": "16+ Years",
+            "education": {
+                "phd": " At Andhra Univeristy",
+                "mtech": "Power Electronics at Jawaharlal Nehru Technological University Kakinada, Kakinada in 2012.",
+                "btech": "Electrical & Electronics Engineering at Electrical & Electronics Engineering"
+            },
+            "teaching_subjects": [
+                "Basic Electrical and Electronics Engineering",
+                "Power System-III",
+                "Electrical Machines-1",
+                "Intelligent Control System","Power System Operation and Control"
+            ],
+            "publications": {
+                "journals": 18,
+                "conferences": 3,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IEI","IETE","IEEE"
+            ],
+            "achievements_and_awards":[
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2022",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-april 2022",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2021",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-april 2021",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2020",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-April 2020",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2019",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-April 2019",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jun-Dec 2018",
+                "Received Certificate of Excellance for Instrumental Role acting as SPOC from NPTEL in IIT Madras for Jan-June 2018"
+            ],
+            "roles": [
+                "Acting as NPTEl SPOC in LBRCE, Mylavaram",
+                "Acted as Central Discipline Committee Member in LBRCE, Mylavaram.",
+                "Acted as Lab Incharge for Electrical Machines lab and M.tech Simulation Lab in LBRCE, Mylavaram.",
+                "Acting as a department NBA, NAAC and ISO coordinator in LBRCE, Mylavaram",
+                "Acting as a department budget coordinator in LBRCE, Mylavaram. (from 2020-2023)",
+                "Acted as a mini project coordinator in LBRCE, Mylavaram.",
+                "Served as an Internal Exam branch in charge in LBRCE, Mylavaram."
+            ]
+        },
+        {
+            "name": "Mr.M.BharathChakravarthy",
+            "designation": "Senior Assistant Professor at Lakireddy Balireddy college of Engineering",
+            "department": "Electrical and Computer Engineering",
+            "image_url": "https://lbrce.ac.in/faculty/assets/images/profiles/ece/T570_SWAMY.jpg",
+            "pdf_url": "https://www.lbrce.ac.in/faculty/profiles/ece/T570_Y.V.N.R.SWAMY_PROFILE.pdf",
+            "research_areas": [
+                "Power Systems",
+                "Renewable Energy forecasting",
+                "MEMS based Piezoelectric energy Harvesting techniques."
+            ],
+            "email": "mbchakkravaarthy@gmail.com",
+            "phone": "+91 9441886691",
+            "experience": "22+ Years",
+            "education": {
+                "phd": "Electrical Engineering at Annamalai University-Tamilnadu.",
+                "mtech": "Power Systems Engineering at Jawaharlal Nehru Technological UniversityAnanthapur, Ananthapur in 2011",
+                "btech": "Electrical & Electronics Engineering at NBKRIST, Vidyanagar, SV University in 1992"
+            },
+            "teaching_subjects": [
+                "Fundamentals of Electrical Engineering",
+                "Basic Electrical and Electronics Engineering"
+            ],
+            "publications": {
+                "journals": 3,
+                "conferences": 1,
+                "patents": 0
+            },
+            "professional_memberships": [
+                "ISTE",
+                "IETE",
+                "IEI"
+            ],
+            "achievements_and_awards":[
+                "School Topper in SSC exams appeared in 1985"
+            ],
+            "roles": [
+                "Acting asAssistant Controller of Examinations in LBRCE",
+                "Acted as Department website Incharge.",
+                "Acted as a department placement coordinator in LBRCE, Mylavaram.",
+                "Acted as a department Exam Cell Incharge in LBRCE, Mylavaram.",
+                "Acted as a Department Industrial visits coordinator in LBRCE, Mylavaram.",
+                "Acted as a Power Electronics Lab Incharge in LBRCE, Mylavaram",
+                "Acted as a Control Systems Lab Incharge in LBRCE, Mylavaram",
+                "Acted as a EDC Lab Incharge in LBRCE, Mylavaram"
+            ]
+ }
+]
+}
+    ]
+}
